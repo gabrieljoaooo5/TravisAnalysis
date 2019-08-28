@@ -24,10 +24,14 @@ class StatementDuplicationExtractor
 				if (!methodName.include? ".")
 					filesInformation.push(["statementDuplication", classFile, variableName, methodName])
 				end
-			end
-			return "statementDuplication", filesInformation, information.size
-		rescue
-			return "statementDuplication", [], 0
+      end
+      if (information.size == 0)
+        extractionFilesInfoForGradle(buildLog)
+      else
+        return "statementDuplication", filesInformation, information.size
+      end
+    rescue
+      return "statementDuplication", [], 0
 		end
 	end
 
@@ -39,7 +43,7 @@ class StatementDuplicationExtractor
 			information = buildLog.to_enum(:scan,/[A-Za-z]*\.(java)(:)(\d+)(:)( error: )([a-z]*)( )([A-Za-z0-9]*)/).map { Regexp.last_match }
 			count = 0
 			while(count < information.size)
-				classFile = information[count].to_s.match(/[A-Za-z]*\.(java)/)[0]
+				classFile = information[count].to_s.match(/[A-Za-z]*\.(java)/)[0].gsub('.java','')
 				variableName = ""
 				if (information[count].to_s.match(/variable/) and information[count].to_s.match(/defined in method/))
 					variableName = information[count].to_s.match(/\[ERROR\] [a-zA-Z0-9\/\-\.\:\[\,]*\]\s[a-zA-Z0-9\/\-\_]* [a-zA-Z0-9]*/)[0].split(" ").last
@@ -51,12 +55,11 @@ class StatementDuplicationExtractor
 				if (!methodName.include? ".")
 					filesInformation.push(["statementDuplication", classFile, variableName, methodName])
 				end
-			end
+      end
 			return "statementDuplication", filesInformation, information.size
-		rescue
+    rescue
 			return "statementDuplication", [], 0
 		end
 	end
 
 end
-

@@ -63,11 +63,69 @@ class MethodUpdateExtractor
 				   	filesInformation.push(["methodParameterListSize", changedClass, changedClass, changedClass, "constructor", line])
 					count += 1
 				end
-			end
-			return "methodParameterListSize", filesInformation, changedClasses.size
+      end
+      if (filesInformation.size == 0)
+        extractionFilesInfoForGradle(buildLog)
+      else
+        return "methodParameterListSize", filesInformation, changedClasses.size
+      end
 		rescue
 			return "methodParameterListSize", [], 0
 		end
-	end
-	
+  end
+
+  def extractionFilesInfoForGradle(buildLog)
+    filesInformation = []
+    numberOccurrences = 0
+    begin
+      if (buildLog[/BUILD FAILURE[\s\S]*/].to_s[/\[ERROR\][ \t\r\n\f]*[a-zA-Z0-9\/\-\.\:\[\]\, ]* no suitable method found for [a-zA-Z0-9\/\-\.\:\[\]\,]*/])
+        numberOccurrences = buildLog.scan(/\[ERROR\][ \t\r\n\f]*[a-zA-Z0-9\/\-\.\:\[\]\, ]* no suitable method found for [a-zA-Z0-9\/\-\.\:\[\]\,]*/).size
+        changedClasses = buildLog[/BUILD FAILURE[\s\S]*/].to_s.to_enum(:scan, /\[ERROR\][ \t\r\n\f]*[a-zA-Z0-9\/\-\.\:\[\]\, ]* no suitable method found for [a-zA-Z0-9\/\-\.\:\[\]\,]*/).map { Regexp.last_match }
+        callClassFiles = buildLog.to_enum(:scan, /\[ERROR\] method [ \t\r\n\f]*[a-zA-Z0-9\/\-\.\:\[\]\,]*[ \t\r\n\f]*/).map { Regexp.last_match }
+        count = 0
+        while (count < changedClasses.size)
+          changedClass = changedClasses[count].to_s.match(/\[ERROR\][ \t\r\n\f]*[a-zA-Z0-9\/\-\.\,]*/)[0].split("/").last.gsub('.java','')
+          aux = callClassFiles[count].to_s.match(/\[ERROR\][ \t\r\n\f]*[a-zA-Z0-9\/\-\.\:\[\]\,]*[ \t\r\n\f]*[a-zA-Z0-9\/\-\.\:\[\]\,]*/)[0].split("method").last
+          methodName = aux.split('.').last
+          callClassFile = aux.split('.'+methodName).last.split('.').last
+          filesInformation.push(["methodParameterListSize", changedClass, methodName, callClassFile, "method"])
+          count += 1
+        end
+      end
+      if (buildLog[/[A-Za-z]*\.(java)(:)(\d+)(:)( error: )([a-z]*)( )([A-Za-z0-9]*)([\s\S]*)(cannot be applied to given types;)/])
+        numberOccurrences = buildLog.scan(/[A-Za-z]*\.(java)(:)(\d+)(:)( error: )([a-z]*)( )([A-Za-z0-9]*)([\s\S]*)(cannot be applied to given types;)/).size
+        changedClasses = buildLog.to_enum(:scan,/[A-Za-z]*\.(java)(:)(\d+)(:)( error: )([a-z]*)( )([A-Za-z0-9]*)([\s\S]*)(cannot be applied to given types;)/).map { Regexp.last_match }
+        lines = buildLog[/BUILD FAILURE[\s\S]*/].to_s.to_enum(:scan, /[a-zA-Z.]*:\[[0-9]*\,[0-9]*\][\s\S]* cannot be applied to given types/).map { Regexp.last_match }
+        if (changedClasses.size == 0)
+          changedClasses = buildLog.to_s.to_enum(:scan, /\[ERROR\][ \t\r\n\f]*[a-zA-Z0-9\/\-\.\:\[\]\,\(\) ]* cannot be applied to [a-zA-Z0-9\/\-\.\:\[\]\,]*/).map { Regexp.last_match }
+        end
+        count = 0
+        while (count < changedClasses.size)
+          changedClass = changedClasses[count].to_s.match(/[A-Za-z]*\.(java)/)[0].split("/").last.gsub('.java','')
+          aux = changedClasses[count].to_s.match(/([A-Z])\w+( cannot be applied to given types;)/)[0]
+          callClassFile = aux.match(/([A-Z])\w+/)
+          line = changedClasses[count].to_s.match(/\d+/)[0]
+          methodName = changedClasses[count].to_s.match(/(method )([A-Za-z0-9]*)/)[0].split(" ")[1]
+          filesInformation.push(["methodParameterListSize", changedClass, methodName, callClassFile, "method", line])
+          count += 1
+        end
+      end
+      if (buildLog[/\[ERROR\] \(actual and formal argument lists differ in length\)/])
+        numberOccurrences = buildLog.scan(/\[ERROR\] \(actual and formal argument lists differ in length\)/).size
+        changedClasses = buildLog[/BUILD FAILURE[\s\S]*/].to_s.to_enum(:scan, /no suitable constructor found for [a-zA-Z]*/).map { Regexp.last_match }
+        count = 0
+        while (count < changedClasses.size)
+          changedClass = changedClasses[count].to_s.split("no suitable constructor found for ").last
+          line = lines[count].to_s.split(".java")[0]
+          filesInformation.push(["methodParameterListSize", changedClass, changedClass, changedClass, "constructor", line])
+          count += 1
+        end
+      end
+       return "methodParameterListSize", filesInformation, changedClasses.size
+    rescue
+      return "methodParameterListSize", [], 0
+    end
+  end
+
 end
+

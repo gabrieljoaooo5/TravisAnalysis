@@ -14,15 +14,17 @@ class UnavailableSymbolExtractor
 		numberOcccurrences = buildLog.scan(/\[ERROR\] [a-zA-Z0-9\/\-\.\:\[\]\,]* cannot find symbol[\n\r]+\[ERROR\]?[ \t\r\n\f]*symbol[ \t\r\n\f]*:[ \t\r\n\f]*method [a-zA-Z0-9\/\-\.\:\[\]\,\(\)]*[\n\r]+\[ERROR\]?[ \t\r\n\f]*location[ \t\r\n\f]*:[ \t\r\n\f]*class[ \t\r\n\f]*[a-zA-Z0-9\/\-\.\:\[\]\,\(\)]*[\n\r]?|\[#{stringErro}\][\s\S]*#{stringNotFindType}|\[#{stringErro}\][\s\S]*#{stringNotMember}|\[ERROR\]?[\s\S]*cannot find symbol/).size
 		begin
 			if (buildLog[/\[ERROR\]?[\s\S]*cannot find symbol/] || buildLog[/\[ERROR\] [a-zA-Z0-9\/\-\.\:\[\]\,]* cannot find symbol[\n\r]+\[ERROR\]?[ \t\r\n\f]*symbol[ \t\r\n\f]*:[ \t\r\n\f]*method [a-zA-Z0-9\/\-\.\:\[\]\,\(\)]*[\n\r]+\[ERROR\]?[ \t\r\n\f]*location[ \t\r\n\f]*:[ \t\r\n\f]*class[ \t\r\n\f]*[a-zA-Z0-9\/\-\.\:\[\]\,\(\)]*[\n\r]?/] || buildLog[/\[javac\] [\/a-zA-Z\_\-\.\:0-9 ]* cannot find symbol/])
-				if (buildLog[/error: package [a-zA-Z\.]* does not exist /])
+        if (buildLog[/error: package [a-zA-Z\.]* does not exist /])
 					return getInfoSecondCase(buildLog, completeBuildLog)
-				elsif (buildLog[/error: cannot find symbol/])
+        elsif (buildLog[/error: cannot find symbol/])
 					return getInfoThirdCase(completeBuildLog)
-				else
+        else
 					return getInfoDefaultCase(buildLog, completeBuildLog)
-				end
-			end
-		rescue
+        end
+      else
+        extractionFilesInfoForGradle(buildLog)
+      end
+    rescue
 			return categoryMissingSymbol, [], 0
 		end
 	end
@@ -59,7 +61,32 @@ class UnavailableSymbolExtractor
 			filesInformation.push([categoryMissingSymbol, classFile, methodName, callClassFile, line])
 		end
 		return categoryMissingSymbol, filesInformation, filesInformation.size
-	end
+  end
+
+  def extractionFilesInfoForGradle(buildLog)
+    filesInformation = []
+    numberOccurrences = buildLog.scan(/[A-Za-z]*\.(java)(:)(\d+)(:)( error: )([\s\S]*)(class )([A-Za-z]*)/).size
+    begin
+      information = buildLog.to_enum(:scan,/[A-Za-z]*\.(java)(:)(\d+)(:)( error: )([\s\S]*)(class )([A-Za-z]*)/).map { Regexp.last_match }
+      count = 0
+      while(count < information.size)
+        callClassFile = information[count].to_s.match(/[A-Za-z]*\.(java)/)[0].gsub('.java','')
+        classFile = information[count].to_s.match(/(class )([A-Za-z]*)/)[0].gsub('class ','')
+        variableName = ""
+        methodName = information[count].to_s.match(/(method )([A-Za-z0-9]*)/)[0].split(" ")[1]
+        categoryMissingSymbol = getTypeUnavailableSymbol(information[0])
+        line = information[count].to_s.match(/(java:)\d+/)[0].gsub('java:','')
+        count += 1
+        if (!methodName.include? ".")
+          filesInformation.push([categoryMissingSymbol, classFile, methodName, callClassFile, line])
+        end
+      end
+      return categoryMissingSymbol, filesInformation, filesInformation.size
+    rescue
+      return "categoryMissingSymbol", [], 0
+    end
+  end
+
 
 	def getInfoThirdCase(buildLog)
 		filesInformation = []
@@ -123,3 +150,23 @@ class UnavailableSymbolExtractor
 	end
 
 end
+
+obj = UnavailableSymbolExtractor.new()
+obj.extractionFilesInfo("Download https://jcenter.bintray.com/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar
+Download https://jcenter.bintray.com/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar
+Download https://jcenter.bintray.com/org/codehaus/woodstox/stax2-api/4.2/stax2-api-4.2.jar
+/home/travis/build/leusonmario/eureka/eureka-client/src/main/java/com/netflix/appinfo/AmazonInfo.java:127: error: cannot find symbol
+            return getToMyString();
+                   ^
+  symbol:   method getToMyString()
+  location: class MetaDataKey
+Note: Some input files use or override a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+Note: Some input files use unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+1 error
+:eureka-client:compileJava FAILED
+FAILURE: Build failed with an exception.
+", "" )
+
+

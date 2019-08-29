@@ -151,22 +151,5 @@ class UnavailableSymbolExtractor
 
 end
 
-obj = UnavailableSymbolExtractor.new()
-obj.extractionFilesInfo("Download https://jcenter.bintray.com/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar
-Download https://jcenter.bintray.com/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar
-Download https://jcenter.bintray.com/org/codehaus/woodstox/stax2-api/4.2/stax2-api-4.2.jar
-/home/travis/build/leusonmario/eureka/eureka-client/src/main/java/com/netflix/appinfo/AmazonInfo.java:127: error: cannot find symbol
-            return getToMyString();
-                   ^
-  symbol:   method getToMyString()
-  location: class MetaDataKey
-Note: Some input files use or override a deprecated API.
-Note: Recompile with -Xlint:deprecation for details.
-Note: Some input files use unchecked or unsafe operations.
-Note: Recompile with -Xlint:unchecked for details.
-1 error
-:eureka-client:compileJava FAILED
-FAILURE: Build failed with an exception.
-", "" )
 
 

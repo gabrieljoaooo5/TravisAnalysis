@@ -9,7 +9,7 @@ class UnimplementedMethodExtractor
 		begin
 			return getInfoDefaultCase(buildLog)
 		rescue
-			return "unimplementedMethod", [], 0
+			getInfoDefaultCaseGradle(buildLog)
 		end
 	end
 
@@ -61,6 +61,26 @@ class UnimplementedMethodExtractor
 		return "unimplementedMethod", filesInformation, interfaceFiles.size
 	end
 
+	def getInfoDefaultCaseGradle(buildLog)
+		filesInformation = []
+		numberOccurrences = buildLog.scan(/[A-Za-z]*\.(java)(:)(\d+)(:)( error: )([\s\S]*)( does not override abstract method )([\s\S]*) (in )(([A-Z])\w+)/).size
+		information = buildLog.to_enum(:scan,/[A-Za-z]*\.(java)(:)(\d+)(:)( error: )([\s\S]*)( does not override abstract method )([\s\S]*) (in )(([A-Z])\w+)/).map { Regexp.last_match }
+		begin
+			count = 0
+			while(count < information.size)
+				classFile = information[count].to_s.match(/[A-Za-z]*\.(java)/)[0].gsub('.java','')
+				interfaceFile = information[count].to_s.match(/(in )(([A-Z])\w+)/)[0].gsub('in ','')
+				methodInterface = information[count].to_s.match(/(method )([A-Za-z0-9]*)/)[0].gsub('method ','')
+
+				filesInformation.push(["unimplementedMethod", classFile, interfaceFile, methodInterface])
+				count += 1
+			end
+			return "unimplementedMethod", filesInformation, information.size
+		rescue
+			return "unimplementedMethod", [], 0
+		end
+	end
+
 	def getInfoSecondCase(buildLog)
 		filesInformation = []
 		#classFiles = buildLog.to_enum(:scan, /\[ERROR\] [a-zA-Z\/\-\.\:\,\[\]0-9 ]*cannot find symbol/).map { Regexp.last_match }
@@ -76,5 +96,6 @@ class UnimplementedMethodExtractor
 		end
 		return "unimplementedMethodSuperType", filesInformation, filesInformation.size
 	end
-	
+
 end
+

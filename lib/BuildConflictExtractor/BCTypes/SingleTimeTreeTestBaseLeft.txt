@@ -1,0 +1,1359 @@
+Match VariableDeclarationFragment(675) to VariableDeclarationFragment(673)
+Match MethodInvocation(735) to MethodInvocation(733)
+Match SimpleName: VALUE_PROPERTY(299) to SimpleName: VALUE_PROPERTY(297)
+Match Modifier: private(52) to Modifier: private(50)
+Match MethodInvocation(497) to MethodInvocation(495)
+Match SimpleName: Transaction(205) to SimpleName: Transaction(203)
+Match StringLiteral: "(root)-[:CHILD]->(year),"(485) to StringLiteral: "(root)-[:CHILD]->(year),"(483)
+Match StringLiteral: "(year2012)-[:CHILD]->(month112012),"(1006) to StringLiteral: "(year2012)-[:CHILD]->(month112012),"(1272)
+Match SimpleName: now(481) to SimpleName: now(479)
+Match ExpressionStatement(736) to ExpressionStatement(734)
+Match SimpleName: getProperty(654) to SimpleName: getProperty(652)
+Match SimpleName: tx(720) to SimpleName: tx(718)
+Match QualifiedName: java.util.List(24) to QualifiedName: java.util.List(22)
+Match SimpleName: assertTrue(513) to SimpleName: assertTrue(511)
+Match SimpleName: dateToDateTime(1046) to SimpleName: dateToDateTime(1312)
+Match SimpleName: dayNodes(256) to SimpleName: dayNodes(254)
+Match VariableDeclarationFragment(99) to VariableDeclarationFragment(97)
+Match MethodInvocation(554) to MethodInvocation(552)
+Match VariableDeclarationStatement(547) to VariableDeclarationStatement(545)
+Match MethodInvocation(342) to MethodInvocation(340)
+Match MethodInvocation(410) to MethodInvocation(408)
+Match SimpleName: getProperty(525) to SimpleName: getProperty(523)
+Match SimpleName: year(1061) to SimpleName: year(1327)
+Match Block(303) to Block(301)
+Match VariableDeclarationFragment(555) to VariableDeclarationFragment(553)
+Match NumberLiteral: 123(421) to NumberLiteral: 123(419)
+Match VariableDeclarationExpression(701) to VariableDeclarationExpression(699)
+Match TryStatement(128) to TryStatement(126)
+Match Block(691) to Block(689)
+Match SimpleName: Transaction(504) to SimpleName: Transaction(502)
+Match SimpleName: now(439) to SimpleName: now(437)
+Match SimpleName: beginTx(698) to SimpleName: beginTx(696)
+Match VariableDeclarationFragment(195) to VariableDeclarationFragment(193)
+Match Assignment: =(466) to Assignment: =(464)
+Match SimpleName: Test(432) to SimpleName: Test(430)
+Match PrimitiveType: void(70) to PrimitiveType: void(68)
+Match VariableDeclarationFragment(885) to VariableDeclarationFragment(883)
+Match SimpleName: dateToMillis(704) to SimpleName: dateToMillis(702)
+Match SimpleName: beginTx(509) to SimpleName: beginTx(507)
+Match FieldDeclaration(51) to FieldDeclaration(49)
+Match NumberLiteral: 4(255) to NumberLiteral: 4(253)
+Match SimpleName: tx(550) to SimpleName: tx(548)
+Match SimpleName: UTC(1076) to SimpleName: UTC(1342)
+Match MethodInvocation(843) to MethodInvocation(841)
+Match SimpleName: year(1047) to SimpleName: year(1313)
+Match VariableDeclarationFragment(411) to VariableDeclarationFragment(409)
+Match InfixExpression: <(277) to InfixExpression: <(275)
+Match StringLiteral: "(root)-[:CHILD]->(year2012),"(1001) to StringLiteral: "(root)-[:CHILD]->(year2012),"(1267)
+Match SimpleName: getDatabase(334) to SimpleName: getDatabase(332)
+Match SimpleName: success(598) to SimpleName: success(596)
+Match VariableDeclarationExpression(979) to VariableDeclarationExpression(977)
+Match MethodInvocation(788) to MethodInvocation(786)
+Match SimpleName: tx(468) to SimpleName: tx(466)
+Match MethodInvocation(408) to MethodInvocation(406)
+Match MethodInvocation(131) to MethodInvocation(129)
+Match SimpleName: dayNode(524) to SimpleName: dayNode(522)
+Match StringLiteral: "(root)-[:FIRST]->(year:Year {value:"(479) to StringLiteral: "(root)-[:FIRST]->(year:Year {value:"(477)
+Match SimpleType: Transaction(353) to SimpleType: Transaction(351)
+Match NumberLiteral: 0(272) to NumberLiteral: 0(270)
+Match SimpleName: getDatabase(80) to SimpleName: getDatabase(78)
+Match StringLiteral: "(year)-[:LAST]->(month),"(493) to StringLiteral: "(year)-[:LAST]->(month),"(491)
+Match SimpleName: forTimeZone(59) to SimpleName: forTimeZone(57)
+Match MethodInvocation(125) to MethodInvocation(123)
+Match VariableDeclarationStatement(961) to VariableDeclarationStatement(959)
+Match VariableDeclarationFragment(444) to VariableDeclarationFragment(442)
+Match SimpleName: getMonthOfYear(489) to SimpleName: getMonthOfYear(487)
+Match SimpleName: getYear(611) to SimpleName: getYear(609)
+Match VariableDeclarationExpression(585) to VariableDeclarationExpression(583)
+Match VariableDeclarationFragment(910) to VariableDeclarationFragment(908)
+Match ExpressionStatement(368) to ExpressionStatement(366)
+Match StringLiteral: "(year)-[:FIRST]->(month:Month {value:5}),"(137) to StringLiteral: "(year)-[:FIRST]->(month:Month {value:5}),"(135)
+Match MethodDeclaration(990) to MethodDeclaration(988)
+Match SimpleName: Test(87) to SimpleName: Test(85)
+Match SimpleName: i(271) to SimpleName: i(269)
+Match VariableDeclarationExpression(154) to VariableDeclarationExpression(152)
+Match ExpressionStatement(76) to ExpressionStatement(74)
+Match SimpleName: dateToMillis(839) to SimpleName: dateToMillis(837)
+Match SimpleName: getDatabase(636) to SimpleName: getDatabase(634)
+Match MethodInvocation(799) to MethodInvocation(797)
+Match NumberLiteral: 4(276) to NumberLiteral: 4(274)
+Match NumberLiteral: 11(681) to NumberLiteral: 11(679)
+Match MethodInvocation(959) to MethodInvocation(957)
+Match ExpressionStatement(302) to ExpressionStatement(300)
+Match SimpleName: success(713) to SimpleName: success(711)
+Match MarkerAnnotation(88) to MarkerAnnotation(86)
+Match PrimitiveType: void(666) to PrimitiveType: void(664)
+Match MethodInvocation(227) to MethodInvocation(225)
+Match VariableDeclarationStatement(204) to VariableDeclarationStatement(202)
+Match Block(570) to Block(568)
+Match SimpleName: tx(506) to SimpleName: tx(504)
+Match MethodInvocation(252) to MethodInvocation(250)
+Match SimpleType: Transaction(549) to SimpleType: Transaction(547)
+Match ExpressionStatement(896) to ExpressionStatement(894)
+Match NumberLiteral: 2013(965) to NumberLiteral: 2013(963)
+Match SimpleName: getDatabase(407) to SimpleName: getDatabase(405)
+Match Block(987) to Block(985)
+Match SimpleName: assertSameGraph(231) to SimpleName: assertSameGraph(229)
+Match MethodInvocation(470) to MethodInvocation(468)
+Match MethodInvocation(631) to MethodInvocation(629)
+Match StringLiteral: "(month112012)-[:NEXT]->(month012013)-[:NEXT]->(month022013)-[:NEXT]->(month032013), "(1012) to StringLiteral: "(month112012)-[:NEXT]->(month012013)-[:NEXT]->(month022013)-[:NEXT]->(month032013), "(1278)
+Match SimpleName: year(1038) to SimpleName: year(1304)
+Match StringLiteral: "(year)-[:LAST]->(month),"(241) to StringLiteral: "(year)-[:LAST]->(month),"(239)
+Match VariableDeclarationFragment(511) to VariableDeclarationFragment(509)
+Match SimpleName: tx(687) to SimpleName: tx(685)
+Match SimpleName: DatabaseIntegrationTest(44) to SimpleName: DatabaseIntegrationTest(42)
+Match SimpleName: List(197) to SimpleName: List(195)
+Match SimpleName: getMillis(560) to SimpleName: getMillis(558)
+Match MethodDeclaration(942) to MethodDeclaration(940)
+Match TypeDeclaration(1081) to TypeDeclaration(1347)
+Match StringLiteral: "(month112012)-[:CHILD]->(day10112012:Day {value:10}),"(1014) to StringLiteral: "(month112012)-[:CHILD]->(day10112012:Day {value:10}),"(1280)
+Match ClassInstanceCreation(1077) to ClassInstanceCreation(1343)
+Match SimpleName: get(295) to SimpleName: get(293)
+Match QualifiedName: com.graphaware.test.unit.GraphUnit(30) to QualifiedName: com.graphaware.test.unit.GraphUnit.assertSameGraph(28)
+Match VariableDeclarationFragment(770) to VariableDeclarationFragment(768)
+Match MethodInvocation(167) to MethodInvocation(165)
+Match ExpressionStatement(122) to ExpressionStatement(120)
+Match MethodDeclaration(1080) to MethodDeclaration(1346)
+Match SimpleType: Exception(73) to SimpleType: Exception(71)
+Match StringLiteral: "(month)-[:LAST]->(day)"(629) to StringLiteral: "(month)-[:LAST]->(day)"(627)
+Match SimpleName: hasLabel(157) to SimpleName: hasLabel(155)
+Match QualifiedName: org.junit.Assert.assertTrue(34) to QualifiedName: org.junit.Assert.assertTrue(32)
+Match SimpleType: Transaction(904) to SimpleType: Transaction(902)
+Match NumberLiteral: 1(742) to NumberLiteral: 1(740)
+Match SimpleName: assertSameGraph(994) to SimpleName: assertSameGraph(1260)
+Match MethodInvocation(371) to MethodInvocation(369)
+Match SimpleName: assertSameGraph(375) to SimpleName: assertSameGraph(373)
+Match SimpleName: beginTx(673) to SimpleName: beginTx(671)
+Match SingleVariableDeclaration(1062) to SingleVariableDeclaration(1328)
+Match NumberLiteral: 4(319) to NumberLiteral: 4(317)
+Match QualifiedName: java.util.TimeZone(26) to QualifiedName: java.util.TimeZone(24)
+Match SimpleName: dayNodes(214) to SimpleName: dayNodes(212)
+Match Block(661) to Block(659)
+Match SimpleName: now(610) to SimpleName: now(608)
+Match SimpleType: Transaction(505) to SimpleType: Transaction(503)
+Match QualifiedName: com.graphaware.test.integration.DatabaseIntegrationTest(2) to QualifiedName: com.graphaware.common.util.PropertyContainerUtils(2)
+Match SimpleName: dayNodes(294) to SimpleName: dayNodes(292)
+Match VariableDeclarationFragment(458) to VariableDeclarationFragment(456)
+Match MethodInvocation(657) to MethodInvocation(655)
+Match NumberLiteral: 7(193) to NumberLiteral: 7(191)
+Match SimpleName: tx(792) to SimpleName: tx(790)
+Match NumberLiteral: 1(841) to NumberLiteral: 1(839)
+Match NumberLiteral: 2(958) to NumberLiteral: 2(956)
+Match SimpleName: getInstant(728) to SimpleName: getInstant(726)
+Match StringLiteral: "CREATE"(378) to StringLiteral: "CREATE"(376)
+Match SimpleType: Transaction(107) to SimpleType: Transaction(105)
+Match StringLiteral: "(month)-[:CHILD]->(day),"(141) to StringLiteral: "(month)-[:CHILD]->(day),"(139)
+Match SimpleName: tx(670) to SimpleName: tx(668)
+Match Modifier: private(46) to Modifier: private(44)
+Match NumberLiteral: 2013(750) to NumberLiteral: 2013(748)
+Match StringLiteral: "(month032013)-[:CHILD]->(day10032013),"(1026) to StringLiteral: "(month032013)-[:CHILD]->(day10032013),"(1292)
+Match MethodDeclaration(308) to MethodDeclaration(306)
+Match MethodInvocation(63) to MethodInvocation(61)
+Match MemberValuePair(948) to MemberValuePair(946)
+Match PrimitiveType: void(312) to PrimitiveType: void(310)
+Match ImportDeclaration(7) to ImportDeclaration(7)
+Match PrimitiveType: void(90) to PrimitiveType: void(88)
+Match SimpleType: Transaction(972) to SimpleType: Transaction(970)
+Match NumberLiteral: 1(892) to NumberLiteral: 1(890)
+Match StringLiteral: "CREATE"(234) to StringLiteral: "CREATE"(232)
+Match MethodInvocation(996) to MethodInvocation(1262)
+Match MethodInvocation(907) to MethodInvocation(905)
+Match SimpleName: Transaction(903) to SimpleName: Transaction(901)
+Match TryStatement(374) to TryStatement(372)
+Match StringLiteral: "(root:TimeTreeRoot),"(133) to StringLiteral: "(root:TimeTreeRoot),"(131)
+Match MethodInvocation(849) to MethodInvocation(847)
+Match MethodInvocation(685) to MethodInvocation(683)
+Match NumberLiteral: 1(751) to NumberLiteral: 1(749)
+Match Modifier: static(53) to Modifier: static(51)
+Match ExpressionStatement(795) to ExpressionStatement(793)
+Match MethodInvocation(417) to MethodInvocation(415)
+Match SimpleName: tx(872) to SimpleName: tx(870)
+Match VariableDeclarationFragment(546) to VariableDeclarationFragment(544)
+Match VariableDeclarationExpression(816) to VariableDeclarationExpression(814)
+Match SimpleName: timeTree(737) to SimpleName: timeTree(735)
+Match MarkerAnnotation(664) to MarkerAnnotation(662)
+Match MethodInvocation(110) to MethodInvocation(108)
+Match ExpressionStatement(648) to ExpressionStatement(646)
+Match SimpleName: beginTx(111) to SimpleName: beginTx(109)
+Match SimpleName: beginTx(151) to SimpleName: beginTx(149)
+Match StringLiteral: "(year2012)-[:NEXT]->(year2013),"(1003) to StringLiteral: "(year2012)-[:NEXT]->(year2013),"(1269)
+Match InfixExpression: +(609) to InfixExpression: +(607)
+Match ExpressionStatement(467) to ExpressionStatement(465)
+Match MethodInvocation(930) to MethodInvocation(928)
+Match ExpressionStatement(760) to ExpressionStatement(758)
+Match SimpleName: assertTrue(280) to SimpleName: assertTrue(278)
+Match ExpressionStatement(836) to ExpressionStatement(834)
+Match ExpressionStatement(935) to ExpressionStatement(933)
+Match SimpleName: endTime(983) to SimpleName: endTime(981)
+Match SimpleName: tx(897) to SimpleName: tx(895)
+Match SimpleName: success(933) to SimpleName: success(931)
+Match SimpleName: TimeTree(47) to SimpleName: TimeTree(45)
+Match StringLiteral: "GMT+1"(340) to StringLiteral: "GMT+1"(338)
+Match MethodInvocation(689) to MethodInvocation(687)
+Match MethodInvocation(672) to MethodInvocation(670)
+Match ClassInstanceCreation(344) to ClassInstanceCreation(342)
+Match SimpleName: tx(855) to SimpleName: tx(853)
+Match MethodInvocation(301) to MethodInvocation(299)
+Match StringLiteral: "(root)-[:CHILD]->(year),"(237) to StringLiteral: "(root)-[:CHILD]->(year),"(235)
+Match InfixExpression: +(1029) to InfixExpression: +(1295)
+Match Modifier: private(1056) to Modifier: private(1322)
+Match QualifiedName: TimeTreeLabels.Day(286) to QualifiedName: TimeTreeLabels.Day(284)
+Match ExpressionStatement(419) to ExpressionStatement(417)
+Match MethodInvocation(418) to MethodInvocation(416)
+Match SimpleName: dateToMillis(829) to SimpleName: dateToMillis(827)
+Match MethodInvocation(708) to MethodInvocation(706)
+Match MethodInvocation(98) to MethodInvocation(96)
+Match MethodDeclaration(1033) to MethodDeclaration(1299)
+Match SimpleName: getDayOfMonth(522) to SimpleName: getDayOfMonth(520)
+Match NumberLiteral: 2012(705) to NumberLiteral: 2012(703)
+Match VariableDeclarationExpression(861) to VariableDeclarationExpression(859)
+Match SimpleName: DateTime(437) to SimpleName: DateTime(435)
+Match SimpleName: timeTree(362) to SimpleName: timeTree(360)
+Match VariableDeclarationFragment(960) to VariableDeclarationFragment(958)
+Match ExpressionStatement(600) to ExpressionStatement(598)
+Match SimpleName: timeTree(912) to SimpleName: timeTree(910)
+Match MethodInvocation(769) to MethodInvocation(767)
+Match StringLiteral: "(root:TimeTreeRoot),"(607) to StringLiteral: "(root:TimeTreeRoot),"(605)
+Match QualifiedName: org.joda.time.DateTime(4) to QualifiedName: com.graphaware.test.integration.DatabaseIntegrationTest(4)
+Match PrimitiveType: long(92) to PrimitiveType: long(90)
+Match ExpressionStatement(715) to ExpressionStatement(713)
+Match MethodInvocation(267) to MethodInvocation(265)
+Match SimpleName: Transaction(808) to SimpleName: Transaction(806)
+Match MethodInvocation(209) to MethodInvocation(207)
+Match MarkerAnnotation(175) to MarkerAnnotation(173)
+Match NumberLiteral: 1(821) to NumberLiteral: 1(819)
+Match MethodInvocation(568) to MethodInvocation(566)
+Match SimpleName: getInstant(888) to SimpleName: getInstant(886)
+Match StringLiteral: "(root)-[:LAST]->(year),"(238) to StringLiteral: "(root)-[:LAST]->(year),"(236)
+Match QualifiedName: org.junit.Test(12) to QualifiedName: org.junit.Test(12)
+Match Block(428) to Block(426)
+Match MethodInvocation(168) to MethodInvocation(166)
+Match MethodInvocation(794) to MethodInvocation(792)
+Match SimpleName: Transaction(853) to SimpleName: Transaction(851)
+Match MethodInvocation(1050) to MethodInvocation(1316)
+Match NumberLiteral: 2013(182) to NumberLiteral: 2013(180)
+Match StringLiteral: "(year)-[:CHILD]->(month),"(138) to StringLiteral: "(year)-[:CHILD]->(month),"(136)
+Match MethodDeclaration(662) to MethodDeclaration(660)
+Match ImportDeclaration(29) to ImportDeclaration(27)
+Match MethodInvocation(284) to MethodInvocation(282)
+Match Modifier: public(311) to Modifier: public(309)
+Match TypeLiteral(947) to TypeLiteral(945)
+Match MethodInvocation(517) to MethodInvocation(515)
+Match SimpleName: dayNodes(202) to SimpleName: dayNodes(200)
+Match MethodInvocation(426) to MethodInvocation(424)
+Match NumberLiteral: 0(1074) to NumberLiteral: 0(1340)
+Match QualifiedName: org.junit.Before(10) to QualifiedName: org.junit.Before(10)
+Match NumberLiteral: 1(831) to NumberLiteral: 1(829)
+Match MethodDeclaration(533) to MethodDeclaration(531)
+Match SimpleName: getDatabase(856) to SimpleName: getDatabase(854)
+Match SimpleName: Transaction(577) to SimpleName: Transaction(575)
+Match Block(941) to Block(939)
+Match ExpressionStatement(711) to ExpressionStatement(709)
+Match SimpleName: timeTree(557) to SimpleName: timeTree(555)
+Match SimpleName: assertEquals(649) to SimpleName: assertEquals(647)
+Match SimpleName: success(688) to SimpleName: success(686)
+Match Block(472) to Block(470)
+Match StringLiteral: "(root)-[:CHILD]->(year2013),"(1002) to StringLiteral: "(root)-[:CHILD]->(year2013),"(1268)
+Match SimpleName: timeTree(587) to SimpleName: timeTree(585)
+Match SimpleName: Test(803) to SimpleName: Test(801)
+Match SimpleName: hasLabel(415) to SimpleName: hasLabel(413)
+Match SimpleName: tx(225) to SimpleName: tx(223)
+Match NumberLiteral: 4(832) to NumberLiteral: 4(830)
+Match SimpleName: beginTx(582) to SimpleName: beginTx(580)
+Match StringLiteral: "(root:TimeTreeRoot),"(235) to StringLiteral: "(root:TimeTreeRoot),"(233)
+Match MethodInvocation(502) to MethodInvocation(500)
+Match SimpleName: getDatabase(696) to SimpleName: getDatabase(694)
+Match SimpleName: SingleTimeTree(332) to SimpleName: SingleTimeTree(330)
+Match StringLiteral: "(month)-[:LAST]->(day)"(142) to StringLiteral: "(month)-[:LAST]->(day)"(140)
+Match SimpleName: Transaction(668) to SimpleName: Transaction(666)
+Match MethodInvocation(402) to MethodInvocation(400)
+Match SimpleName: beginTx(883) to SimpleName: beginTx(881)
+Match StringLiteral: "(month)-[:FIRST]->(day:Day {value:"(623) to StringLiteral: "(month)-[:FIRST]->(day:Day {value:"(621)
+Match SimpleName: tx(847) to SimpleName: tx(845)
+Match SimpleName: tx(984) to SimpleName: tx(982)
+Match SimpleName: getInstant(117) to SimpleName: getInstant(115)
+Match StringLiteral: "(month)-[:CHILD]->(day7:Day {value:7}),"(245) to StringLiteral: "(month)-[:CHILD]->(day7:Day {value:7}),"(243)
+Match ExpressionStatement(658) to ExpressionStatement(656)
+Match MethodInvocation(639) to MethodInvocation(637)
+Match SimpleType: Transaction(694) to SimpleType: Transaction(692)
+Match SimpleName: verifyFullTree(798) to SimpleName: verifyFullTree(796)
+Match SimpleName: tx(365) to SimpleName: tx(363)
+Match StringLiteral: "}),"(613) to StringLiteral: "}),"(611)
+Match SimpleName: tx(810) to SimpleName: tx(808)
+Match MethodInvocation(518) to MethodInvocation(516)
+Match MethodInvocation(934) to MethodInvocation(932)
+Match VariableDeclarationStatement(576) to VariableDeclarationStatement(574)
+Match StringLiteral: "(month022013)-[:LAST]->(day01022013),"(1024) to StringLiteral: "(month022013)-[:LAST]->(day01022013),"(1290)
+Match MethodInvocation(287) to MethodInvocation(285)
+Match SimpleName: Transaction(352) to SimpleName: Transaction(350)
+Match SimpleName: tx(779) to SimpleName: tx(777)
+Match MethodInvocation(545) to MethodInvocation(543)
+Match SimpleName: DateTime(1069) to SimpleName: DateTime(1335)
+Match PrimitiveType: void(537) to PrimitiveType: void(535)
+Match VariableDeclarationFragment(203) to VariableDeclarationFragment(201)
+Match TextElement: Unit test for (36) to TextElement: Unit test for (34)
+Match SimpleType: DateTime(1058) to SimpleType: DateTime(1324)
+Match MethodInvocation(619) to MethodInvocation(617)
+Match VariableDeclarationFragment(575) to VariableDeclarationFragment(573)
+Match SimpleName: setUp(71) to SimpleName: setUp(69)
+Match InfixExpression: +(501) to InfixExpression: +(499)
+Match MethodInvocation(918) to MethodInvocation(916)
+Match NumberLiteral: 10(927) to NumberLiteral: 10(925)
+Match VariableDeclarationFragment(700) to VariableDeclarationFragment(698)
+Match SimpleName: dateToMillis(774) to SimpleName: dateToMillis(772)
+Match SimpleName: startTime(954) to SimpleName: startTime(952)
+Match MethodInvocation(328) to MethodInvocation(326)
+Match SimpleName: Transaction(548) to SimpleName: Transaction(546)
+Match ExpressionStatement(690) to ExpressionStatement(688)
+Match ForStatement(304) to ForStatement(302)
+Match SimpleName: success(848) to SimpleName: success(846)
+Match NumberLiteral: 3(916) to NumberLiteral: 3(914)
+Match Block(761) to Block(759)
+Match MethodInvocation(508) to MethodInvocation(506)
+Match SimpleName: Node(347) to SimpleName: Node(345)
+Match NumberLiteral: 1(787) to NumberLiteral: 1(785)
+Match MethodInvocation(527) to MethodInvocation(525)
+Match SimpleName: instantNode(349) to SimpleName: instantNode(347)
+Match SimpleType: Transaction(634) to SimpleType: Transaction(632)
+Match SimpleName: getDatabase(811) to SimpleName: getDatabase(809)
+Match ExpressionStatement(372) to ExpressionStatement(370)
+Match NumberLiteral: 1(842) to NumberLiteral: 1(840)
+Match SimpleName: getInstant(738) to SimpleName: getInstant(736)
+Match VariableDeclarationExpression(459) to VariableDeclarationExpression(457)
+Match StringLiteral: "}),"(484) to StringLiteral: "}),"(482)
+Match VariableDeclarationStatement(100) to VariableDeclarationStatement(98)
+Match SimpleName: dateToMillis(739) to SimpleName: dateToMillis(737)
+Match SimpleName: forTimeZone(337) to SimpleName: forTimeZone(335)
+Match Assignment: =(595) to Assignment: =(593)
+Match SimpleType: List(198) to SimpleType: List(196)
+Match ReturnStatement(1053) to ReturnStatement(1319)
+Match VariableDeclarationFragment(329) to VariableDeclarationFragment(327)
+Match SimpleName: Transaction(404) to SimpleName: Transaction(402)
+Match StringLiteral: "(month012013)-[:LAST]->(day04012013),"(1020) to StringLiteral: "(month012013)-[:LAST]->(day04012013),"(1286)
+Match SimpleName: dayNode(103) to SimpleName: dayNode(101)
+Match SimpleName: assertTrue(155) to SimpleName: assertTrue(153)
+Match MethodInvocation(561) to MethodInvocation(559)
+Match InfixExpression: +(401) to InfixExpression: +(399)
+Match StringLiteral: "(hour)-[:CHILD]->(minute),"(393) to StringLiteral: "(hour)-[:CHILD]->(minute),"(391)
+Match MethodInvocation(733) to MethodInvocation(731)
+Match StringLiteral: "(month)-[:CHILD]->(day6:Day {value:6}),"(244) to StringLiteral: "(month)-[:CHILD]->(day6:Day {value:6}),"(242)
+Match SimpleName: timeTree(747) to SimpleName: timeTree(745)
+Match MethodInvocation(265) to MethodInvocation(263)
+Match StringLiteral: "(year2013)-[:FIRST]->(month012013),"(1010) to StringLiteral: "(year2013)-[:FIRST]->(month012013),"(1276)
+Match MethodInvocation(985) to MethodInvocation(983)
+Match StringLiteral: "(month012013)-[:CHILD]->(day01012013),"(1019) to StringLiteral: "(month012013)-[:CHILD]->(day01012013),"(1285)
+Match SimpleName: TimeZone(60) to SimpleName: TimeZone(58)
+Match NumberLiteral: 2013(840) to NumberLiteral: 2013(838)
+Match NumberLiteral: 1(966) to NumberLiteral: 1(964)
+Match SimpleName: tx(354) to SimpleName: tx(352)
+Match ExpressionStatement(565) to ExpressionStatement(563)
+Match SimpleName: getInstant(558) to SimpleName: getInstant(556)
+Match SimpleName: tx(108) to SimpleName: tx(106)
+Match StringLiteral: "CREATE"(997) to StringLiteral: "CREATE"(1263)
+Match SimpleName: DateTime(542) to SimpleName: DateTime(540)
+Match SimpleName: success(873) to SimpleName: success(871)
+Match NumberLiteral: 5(183) to NumberLiteral: 5(181)
+Match SimpleName: trivialTreeShouldBeCreatedWhenFirstDayIsRequested(91) to SimpleName: trivialTreeShouldBeCreatedWhenFirstDayIsRequested(89)
+Match VariableDeclarationStatement(970) to VariableDeclarationStatement(968)
+Match SimpleType: Transaction(879) to SimpleType: Transaction(877)
+Match MethodInvocation(297) to MethodInvocation(295)
+Match SimpleName: now(541) to SimpleName: now(539)
+Match Block(127) to Block(125)
+Match StringLiteral: "}),"(491) to StringLiteral: "}),"(489)
+Match StringLiteral: "(root:TimeTreeRoot),"(478) to StringLiteral: "(root:TimeTreeRoot),"(476)
+Match ImportDeclaration(33) to ImportDeclaration(31)
+Match SimpleName: SingleTimeTree(37) to SimpleName: SingleTimeTree(35)
+Match SimpleType: DateTime(438) to SimpleType: DateTime(436)
+Match QualifiedName: TimeTreeLabels.Day(516) to QualifiedName: TimeTreeLabels.Day(514)
+Match PrimitiveType: int(1040) to PrimitiveType: int(1306)
+Match StringLiteral: "(year)-[:CHILD]->(month),"(621) to StringLiteral: "(year)-[:CHILD]->(month),"(619)
+Match StringLiteral: "(year2013)-[:CHILD]->(month032013:Month {value:3}),"(1009) to StringLiteral: "(year2013)-[:CHILD]->(month032013:Month {value:3}),"(1275)
+Match MethodInvocation(683) to MethodInvocation(681)
+Match VariableDeclarationFragment(584) to VariableDeclarationFragment(582)
+Match TryStatement(171) to TryStatement(169)
+Match SimpleName: DateTimeZone(58) to SimpleName: DateTimeZone(56)
+Match SingleVariableDeclaration(1065) to SingleVariableDeclaration(1331)
+Match SimpleName: dayNode(448) to SimpleName: dayNode(446)
+Match SimpleName: i(291) to SimpleName: i(289)
+Match SimpleName: Transaction(718) to SimpleName: Transaction(716)
+Match SimpleName: IllegalArgumentException(945) to SimpleName: IllegalArgumentException(943)
+Match StringLiteral: "(year)-[:CHILD]->(month),"(492) to StringLiteral: "(year)-[:CHILD]->(month),"(490)
+Match SimpleName: beginTx(409) to SimpleName: beginTx(407)
+Match MarkerAnnotation(535) to MarkerAnnotation(533)
+Match SimpleName: timeTree(677) to SimpleName: timeTree(675)
+Match StringLiteral: "(month)-[:CHILD]->(day),"(387) to StringLiteral: "(month)-[:CHILD]->(day),"(385)
+Match SimpleName: day(1067) to SimpleName: day(1333)
+Match SimpleName: assertEquals(254) to SimpleName: assertEquals(252)
+Match SimpleName: tx(709) to SimpleName: tx(707)
+Match MethodInvocation(857) to MethodInvocation(855)
+Match NumberLiteral: 2013(956) to NumberLiteral: 2013(954)
+Match TryStatement(762) to TryStatement(760)
+Match Modifier: public(176) to Modifier: public(174)
+Match MethodInvocation(939) to MethodInvocation(937)
+Match SimpleName: success(567) to SimpleName: success(565)
+Match SimpleName: success(469) to SimpleName: success(467)
+Match MethodInvocation(233) to MethodInvocation(231)
+Match ImportDeclaration(25) to ImportDeclaration(23)
+Match SimpleName: Transaction(106) to SimpleName: Transaction(104)
+Match SimpleName: dateToMillis(864) to SimpleName: dateToMillis(862)
+Match SimpleName: tx(734) to SimpleName: tx(732)
+Match Block(1054) to Block(1320)
+Match SimpleName: dateToMillis(889) to SimpleName: dateToMillis(887)
+Match SimpleName: tx(566) to SimpleName: tx(564)
+Match SimpleName: success(793) to SimpleName: success(791)
+Match NumberLiteral: 2014(318) to NumberLiteral: 2014(316)
+Match SimpleName: Transaction(261) to SimpleName: Transaction(259)
+Match SimpleName: beginTx(858) to SimpleName: beginTx(856)
+Match StringLiteral: "(day)-[:FIRST]->(hour:Hour {value:14}),"(389) to StringLiteral: "(day)-[:FIRST]->(hour:Hour {value:14}),"(387)
+Match VariableDeclarationStatement(450) to VariableDeclarationStatement(448)
+Match SimpleName: assertSameGraph(474) to SimpleName: assertSameGraph(472)
+Match MethodInvocation(874) to MethodInvocation(872)
+Match SimpleName: Test(534) to SimpleName: Test(532)
+Match SimpleName: verifyFullTree(993) to SimpleName: verifyFullTree(1259)
+Match SimpleName: assertEquals(290) to SimpleName: assertEquals(288)
+Match StringLiteral: "(second)-[:CHILD]->(milli),"(399) to StringLiteral: "(second)-[:CHILD]->(milli),"(397)
+Match ImportDeclaration(35) to ImportDeclaration(33)
+Match VariableDeclarationFragment(212) to VariableDeclarationFragment(210)
+Match SimpleName: timeTree(782) to SimpleName: timeTree(780)
+Match SimpleName: assertEquals(162) to SimpleName: assertEquals(160)
+Match SimpleName: year(1071) to SimpleName: year(1337)
+Match StringLiteral: "(day01112012)-[:NEXT]->(day10112012)-[:NEXT]->(day01012013:Day {value:1})-[:NEXT]->(day02012013:Day {value:2})-[:NEXT]->(day04012013:Day {value:4})-[:NEXT]->(day01022013:Day {value:1})-[:NEXT]->(day10032013:Day {value:10}),"(1017) to StringLiteral: "(day01112012)-[:NEXT]->(day10112012)-[:NEXT]->(day01012013:Day {value:1})-[:NEXT]->(day02012013:Day {value:2})-[:NEXT]->(day04012013:Day {value:4})-[:NEXT]->(day01022013:Day {value:1})-[:NEXT]->(day10032013:Day {value:10}),"(1283)
+Match TryStatement(429) to TryStatement(427)
+Match MarkerAnnotation(310) to MarkerAnnotation(308)
+Match TryStatement(852) to TryStatement(850)
+Match ImportDeclaration(21) to ImportDeclaration(19)
+Match ExpressionStatement(931) to ExpressionStatement(929)
+Match SimpleName: beginTx(976) to SimpleName: beginTx(974)
+Match ImportDeclaration(31) to ImportDeclaration(29)
+Match MethodInvocation(523) to MethodInvocation(521)
+Match SimpleName: beginTx(210) to SimpleName: beginTx(208)
+Match SimpleName: dayNodes(281) to SimpleName: dayNodes(279)
+Match SingleVariableDeclaration(1045) to SingleVariableDeclaration(1311)
+Match StringLiteral: "(root)-[:FIRST]->(year:Year {value:2014}),"(380) to StringLiteral: "(root)-[:FIRST]->(year:Year {value:2014}),"(378)
+Match SimpleName: i(278) to SimpleName: i(276)
+Match StringLiteral: "(month)-[:FIRST]->(day4),"(246) to StringLiteral: "(month)-[:FIRST]->(day4),"(244)
+Match SimpleName: tx(894) to SimpleName: tx(892)
+Match SimpleName: getDatabase(232) to SimpleName: getDatabase(230)
+Match SimpleName: assertSameGraph(129) to SimpleName: assertSameGraph(127)
+Match SimpleName: dateToDateTime(1059) to SimpleName: dateToDateTime(1325)
+Match SimpleName: tx(919) to SimpleName: tx(917)
+Match SimpleName: now(495) to SimpleName: now(493)
+Match MethodInvocation(160) to MethodInvocation(158)
+Match SimpleName: Test(663) to SimpleName: Test(661)
+Match TagElement: @link(38) to TagElement: @link(36)
+Match StringLiteral: "(month)-[:LAST]->(day),"(388) to StringLiteral: "(month)-[:LAST]->(day),"(386)
+Match NumberLiteral: 1(967) to NumberLiteral: 1(965)
+Match SimpleName: dayNode(164) to SimpleName: dayNode(162)
+Match StringLiteral: "}),"(498) to StringLiteral: "}),"(496)
+Match MethodInvocation(443) to MethodInvocation(441)
+Match ExpressionStatement(791) to ExpressionStatement(789)
+Match SimpleName: DateTimeZone(336) to SimpleName: DateTimeZone(334)
+Match TryStatement(692) to TryStatement(690)
+Match ExpressionStatement(169) to ExpressionStatement(167)
+Match SimpleName: timeTree(461) to SimpleName: timeTree(459)
+Match SimpleName: getInstant(588) to SimpleName: getInstant(586)
+Match SimpleName: dateToMillis(924) to SimpleName: dateToMillis(922)
+Match NumberLiteral: 5(96) to NumberLiteral: 5(94)
+Match Block(373) to Block(371)
+Match SimpleName: UTC(325) to SimpleName: UTC(323)
+Match StringLiteral: "CREATE"(477) to StringLiteral: "CREATE"(475)
+Match SimpleName: tx(905) to SimpleName: tx(903)
+Match QualifiedName: org.junit.After(8) to QualifiedName: org.joda.time.DateTimeZone(8)
+Match Modifier: public(805) to Modifier: public(803)
+Match StringLiteral: "(root)-[:LAST]->(year),"(486) to StringLiteral: "(root)-[:LAST]->(year),"(484)
+Match VariableDeclarationFragment(350) to VariableDeclarationFragment(348)
+Match NumberLiteral: 4(97) to NumberLiteral: 4(95)
+Match PrimitiveType: void(435) to PrimitiveType: void(433)
+Match MethodInvocation(674) to MethodInvocation(672)
+Match SimpleName: getDatabase(454) to SimpleName: getDatabase(452)
+Match SimpleName: day(1044) to SimpleName: day(1310)
+Match ImportDeclaration(9) to ImportDeclaration(9)
+Match QualifiedName: Resolution.DAY(463) to QualifiedName: Resolution.DAY(461)
+Match SimpleName: getInstant(818) to SimpleName: getInstant(816)
+Match SimpleName: tx(453) to SimpleName: tx(451)
+Match VariableDeclarationExpression(726) to VariableDeclarationExpression(724)
+Match SimpleName: day(1073) to SimpleName: day(1339)
+Match SimpleName: success(226) to SimpleName: success(224)
+Match SimpleName: tx(635) to SimpleName: tx(633)
+Match SimpleName: dayNode(574) to SimpleName: dayNode(572)
+Match ExpressionStatement(800) to ExpressionStatement(798)
+Match SimpleType: SingleTimeTree(79) to SimpleType: SingleTimeTree(77)
+Match SimpleName: tx(932) to SimpleName: tx(930)
+Match ExpressionStatement(846) to ExpressionStatement(844)
+Match VariableDeclarationFragment(860) to VariableDeclarationFragment(858)
+Match SimpleName: timeTree(827) to SimpleName: timeTree(825)
+Match ExpressionStatement(871) to ExpressionStatement(869)
+Match SimpleName: beginTx(813) to SimpleName: beginTx(811)
+Match NumberLiteral: 2013(740) to NumberLiteral: 2013(738)
+Match StringLiteral: "(month022013)-[:FIRST]->(day01022013),"(1023) to StringLiteral: "(month022013)-[:FIRST]->(day01022013),"(1289)
+Match Block(989) to Block(987)
+Match MethodInvocation(612) to MethodInvocation(610)
+Match SimpleType: Transaction(809) to SimpleType: Transaction(807)
+Match SimpleName: dayNode(156) to SimpleName: dayNode(154)
+Match MethodInvocation(583) to MethodInvocation(581)
+Match NumberLiteral: 1(867) to NumberLiteral: 1(865)
+Match ExpressionStatement(253) to ExpressionStatement(251)
+Match SimpleName: now(559) to SimpleName: now(557)
+Match Block(307) to Block(305)
+Match SimpleName: assertSameGraph(603) to SimpleName: assertSameGraph(601)
+Match SimpleName: Transaction(971) to SimpleName: Transaction(969)
+Match SimpleName: fullTreeShouldBeCreatedWhenAFewDaysAreRequested(667) to SimpleName: fullTreeShouldBeCreatedWhenAFewDaysAreRequested(665)
+Match MethodInvocation(185) to MethodInvocation(183)
+Match MethodInvocation(552) to MethodInvocation(550)
+Match ExpressionStatement(529) to ExpressionStatement(527)
+Match SimpleName: now(624) to SimpleName: now(622)
+Match StringLiteral: "(year)-[:CHILD]->(month),"(384) to StringLiteral: "(year)-[:CHILD]->(month),"(382)
+Match SimpleName: dateToMillis(964) to SimpleName: dateToMillis(962)
+Match VariableDeclarationFragment(359) to VariableDeclarationFragment(357)
+Match Block(876) to Block(874)
+Match SimpleName: tx(406) to SimpleName: tx(404)
+Match QualifiedName: org.neo4j.graphdb.Node(18) to QualifiedName: org.neo4j.graphdb.NotFoundException(16)
+Match StringLiteral: "(month)-[:CHILD]->(day),"(499) to StringLiteral: "(month)-[:CHILD]->(day),"(497)
+Match SimpleName: timeTree(702) to SimpleName: timeTree(700)
+Match SimpleName: getDatabase(130) to SimpleName: getDatabase(128)
+Match SimpleName: beginTx(357) to SimpleName: beginTx(355)
+Match SimpleName: assertTrue(413) to SimpleName: assertTrue(411)
+Match SimpleName: timeTree(862) to SimpleName: timeTree(860)
+Match Block(1079) to Block(1345)
+Match StringLiteral: "(year2013)-[:CHILD]->(month022013:Month {value:2}),"(1008) to StringLiteral: "(year2013)-[:CHILD]->(month022013:Month {value:2}),"(1274)
+Match ClassInstanceCreation(82) to ClassInstanceCreation(80)
+Match MethodInvocation(814) to MethodInvocation(812)
+Match SimpleName: getInstant(773) to SimpleName: getInstant(771)
+Match SimpleName: getDatabase(109) to SimpleName: getDatabase(107)
+Match MethodInvocation(646) to MethodInvocation(644)
+Match ExpressionStatement(161) to ExpressionStatement(159)
+Match SimpleName: getDatabase(671) to SimpleName: getDatabase(669)
+Match VariableDeclarationExpression(114) to VariableDeclarationExpression(112)
+Match Modifier: final(54) to Modifier: final(52)
+Match Block(659) to Block(657)
+Match ExpressionStatement(746) to ExpressionStatement(744)
+Match Block(532) to Block(530)
+Match SimpleName: assertEquals(520) to SimpleName: assertEquals(518)
+Match SimpleName: dayNode(586) to SimpleName: dayNode(584)
+Match MethodInvocation(647) to MethodInvocation(645)
+Match StringLiteral: "(day)-[:CHILD]->(hour),"(390) to StringLiteral: "(day)-[:CHILD]->(hour),"(388)
+Match SimpleName: now(521) to SimpleName: now(519)
+Match SimpleName: SingleTimeTree(78) to SimpleName: SingleTimeTree(76)
+Match SimpleName: now(589) to SimpleName: now(587)
+Match StringLiteral: "(month032013)-[:LAST]->(day10032013)"(1028) to StringLiteral: "(month032013)-[:LAST]->(day10032013)"(1294)
+Match Block(936) to Block(934)
+Match ExpressionStatement(260) to ExpressionStatement(258)
+Match PrimitiveType: int(1043) to PrimitiveType: int(1309)
+Match MethodInvocation(899) to MethodInvocation(897)
+Match SimpleName: endDateInMillis(189) to SimpleName: endDateInMillis(187)
+Match SimpleName: tx(824) to SimpleName: tx(822)
+Match PrimitiveType: long(314) to PrimitiveType: long(312)
+Match NumberLiteral: 2013(915) to NumberLiteral: 2013(913)
+Match VariableDeclarationExpression(556) to VariableDeclarationExpression(554)
+Match SimpleType: Node(200) to SimpleType: Node(198)
+Match VariableDeclarationFragment(969) to VariableDeclarationFragment(967)
+Match SimpleName: getInstant(838) to SimpleName: getInstant(836)
+Match SimpleName: getInstant(828) to SimpleName: getInstant(826)
+Match SimpleName: getDatabase(507) to SimpleName: getDatabase(505)
+Match StringLiteral: "(month012013)-[:CHILD]->(day02012013),"(1022) to StringLiteral: "(month012013)-[:CHILD]->(day02012013),"(1288)
+Match NumberLiteral: 1(957) to NumberLiteral: 1(955)
+Match MethodInvocation(258) to MethodInvocation(256)
+Match NumberLiteral: 4(292) to NumberLiteral: 4(290)
+Match NumberLiteral: 1(682) to NumberLiteral: 1(680)
+Match StringLiteral: "(root:TimeTreeRoot),"(379) to StringLiteral: "(root:TimeTreeRoot),"(377)
+Match SimpleName: Node(199) to SimpleName: Node(197)
+Match StringLiteral: "(day5)-[:NEXT]->(day6),"(249) to StringLiteral: "(day5)-[:NEXT]->(day6),"(247)
+Match VariableDeclarationStatement(445) to VariableDeclarationStatement(443)
+Match SimpleName: instantNode(361) to SimpleName: instantNode(359)
+Match NumberLiteral: 56(322) to NumberLiteral: 56(320)
+Match StringLiteral: "(year2013)-[:CHILD]->(month012013:Month {value:1}),"(1007) to StringLiteral: "(year2013)-[:CHILD]->(month012013:Month {value:1}),"(1273)
+Match NumberLiteral: 10(707) to NumberLiteral: 10(705)
+Match NumberLiteral: 2012(925) to NumberLiteral: 2012(923)
+Match MethodInvocation(194) to MethodInvocation(192)
+Match StringLiteral: "(year2013)-[:LAST]->(month032013),"(1011) to StringLiteral: "(year2013)-[:LAST]->(month032013),"(1277)
+Match PrimitiveType: void(992) to PrimitiveType: void(1258)
+Match StringLiteral: "CREATE"(132) to StringLiteral: "CREATE"(130)
+Match MarkerAnnotation(804) to MarkerAnnotation(802)
+Match SimpleName: getDatabase(149) to SimpleName: getDatabase(147)
+Match MethodInvocation(591) to MethodInvocation(589)
+Match MethodInvocation(868) to MethodInvocation(866)
+Match SimpleName: getInstant(783) to SimpleName: getInstant(781)
+Match SimpleName: VALUE_PROPERTY(166) to SimpleName: VALUE_PROPERTY(164)
+Match QualifiedName: TimeTreeLabels.Millisecond(416) to QualifiedName: TimeTreeLabels.Millisecond(414)
+Match SimpleName: Transaction(878) to SimpleName: Transaction(876)
+Match SimpleName: DateTimeZone(55) to SimpleName: DateTimeZone(53)
+Match TagElement(40) to TagElement(38)
+Match NumberLiteral: 2012(680) to NumberLiteral: 2012(678)
+Match Assignment: =(345) to Assignment: =(343)
+Match StringLiteral: "(minute)-[:CHILD]->(second),"(396) to StringLiteral: "(minute)-[:CHILD]->(second),"(394)
+Match StringLiteral: "(month032013)-[:FIRST]->(day10032013),"(1027) to StringLiteral: "(month032013)-[:FIRST]->(day10032013),"(1293)
+Match SimpleName: tx(844) to SimpleName: tx(842)
+Match TryStatement(230) to TryStatement(228)
+Match Block(229) to Block(227)
+Match QualifiedName: Resolution.DAY(562) to QualifiedName: Resolution.DAY(560)
+Match StringLiteral: "(year)-[:LAST]->(month),"(139) to StringLiteral: "(year)-[:LAST]->(month),"(137)
+Match SimpleName: verifyFullTree(938) to SimpleName: verifyFullTree(936)
+Match SimpleName: getInstant(703) to SimpleName: getInstant(701)
+Match SimpleName: getInstant(863) to SimpleName: getInstant(861)
+Match VariableDeclarationFragment(449) to VariableDeclarationFragment(447)
+Match TryStatement(473) to TryStatement(471)
+Match ExpressionStatement(145) to ExpressionStatement(143)
+Match Block(530) to Block(528)
+Match MethodInvocation(152) to MethodInvocation(150)
+Match SimpleName: tx(593) to SimpleName: tx(591)
+Match ExpressionStatement(781) to ExpressionStatement(779)
+Match SimpleName: UTC(57) to SimpleName: UTC(55)
+Match ExpressionStatement(900) to ExpressionStatement(898)
+Match StringLiteral: "(year2012)-[:LAST]->(month112012),"(1005) to StringLiteral: "(year2012)-[:LAST]->(month112012),"(1271)
+Match StringLiteral: "(root)-[:CHILD]->(year),"(135) to StringLiteral: "(root)-[:CHILD]->(year),"(133)
+Match VariableDeclarationFragment(153) to VariableDeclarationFragment(151)
+Match SimpleName: getDatabase(551) to SimpleName: getDatabase(549)
+Match SimpleName: UTC(544) to SimpleName: UTC(542)
+Match QualifiedName: com.graphaware.module.timetree(0) to QualifiedName: com.graphaware.module.timetree(0)
+Match SimpleName: timeTree(727) to SimpleName: timeTree(725)
+Match MethodInvocation(490) to MethodInvocation(488)
+Match SimpleName: Node(572) to SimpleName: Node(570)
+Match MethodDeclaration(431) to MethodDeclaration(429)
+Match NumberLiteral: 1(741) to NumberLiteral: 1(739)
+Match SimpleName: month(1064) to SimpleName: month(1330)
+Match VariableDeclarationFragment(65) to VariableDeclarationFragment(63)
+Match SingleVariableDeclaration(1042) to SingleVariableDeclaration(1308)
+Match StringLiteral: "(day)-[:LAST]->(hour),"(391) to StringLiteral: "(day)-[:LAST]->(hour),"(389)
+Match MethodInvocation(81) to MethodInvocation(79)
+Match SimpleName: getMonthOfYear(618) to SimpleName: getMonthOfYear(616)
+Match SimpleName: getTimeZone(339) to SimpleName: getTimeZone(337)
+Match MarkerAnnotation(433) to MarkerAnnotation(431)
+Match MethodInvocation(833) to MethodInvocation(831)
+Match StringLiteral: "(year)-[:LAST]->(month),"(385) to StringLiteral: "(year)-[:LAST]->(month),"(383)
+Match MethodInvocation(697) to MethodInvocation(695)
+Match ExpressionStatement(921) to ExpressionStatement(919)
+Match Javadoc(41) to Javadoc(39)
+Match SimpleName: Transaction(693) to SimpleName: Transaction(691)
+Match MethodInvocation(778) to MethodInvocation(776)
+Match SimpleName: Before(67) to SimpleName: Before(65)
+Match SimpleName: getDatabase(604) to SimpleName: getDatabase(602)
+Match SimpleName: dateToMillis(729) to SimpleName: dateToMillis(727)
+Match SimpleName: beginTx(456) to SimpleName: beginTx(454)
+Match PrimitiveType: long(1035) to PrimitiveType: long(1301)
+Match SimpleName: hasLabel(644) to SimpleName: hasLabel(642)
+Match SimpleName: success(124) to SimpleName: success(122)
+Match StringLiteral: "(month)-[:CHILD]->(day),"(628) to StringLiteral: "(month)-[:CHILD]->(day),"(626)
+Match MethodDeclaration(86) to MethodDeclaration(84)
+Match ExpressionStatement(1031) to ExpressionStatement(1297)
+Match SimpleName: month(1041) to SimpleName: month(1307)
+Match NumberLiteral: 2013(191) to NumberLiteral: 2013(189)
+Match SimpleName: tx(263) to SimpleName: tx(261)
+Match StringLiteral: "(root)-[:CHILD]->(year),"(381) to StringLiteral: "(root)-[:CHILD]->(year),"(379)
+Match StringLiteral: "(month)-[:LAST]->(day7),"(247) to StringLiteral: "(month)-[:LAST]->(day7),"(245)
+Match QualifiedName: org.neo4j.test.TestGraphDatabaseFactory(22) to QualifiedName: org.neo4j.tooling.GlobalGraphOperations(20)
+Match SimpleName: DateTime(1057) to SimpleName: DateTime(1323)
+Match QualifiedName: Resolution.MILLISECOND(343) to QualifiedName: Resolution.MILLISECOND(341)
+Match StringLiteral: "(month112012)-[:FIRST]->(day01112012),"(1015) to StringLiteral: "(month112012)-[:FIRST]->(day01112012),"(1281)
+Match MethodInvocation(755) to MethodInvocation(753)
+Match MethodInvocation(1030) to MethodInvocation(1296)
+Match NumberLiteral: 2012(890) to NumberLiteral: 2012(888)
+Match VariableDeclarationStatement(196) to VariableDeclarationStatement(194)
+Match NumberLiteral: 3(776) to NumberLiteral: 3(774)
+Match NumberLiteral: 123(324) to NumberLiteral: 123(322)
+Match SimpleName: beginTx(723) to SimpleName: beginTx(721)
+Match TryStatement(571) to TryStatement(569)
+Match StringLiteral: "(root)-[:FIRST]->(year:Year {value:"(608) to StringLiteral: "(root)-[:FIRST]->(year:Year {value:"(606)
+Match SimpleType: Transaction(669) to SimpleType: Transaction(667)
+Match SimpleName: tx(684) to SimpleName: tx(682)
+Match MethodInvocation(150) to MethodInvocation(148)
+Match NumberLiteral: 2(822) to NumberLiteral: 2(820)
+Match SimpleType: Transaction(262) to SimpleType: Transaction(260)
+Match VariableDeclarationExpression(641) to VariableDeclarationExpression(639)
+Match SimpleName: beginTx(638) to SimpleName: beginTx(636)
+Match MethodInvocation(300) to MethodInvocation(298)
+Match StringLiteral: "}),"(627) to StringLiteral: "}),"(625)
+Match ImportDeclaration(27) to ImportDeclaration(25)
+Match SimpleName: getDayOfMonth(651) to SimpleName: getDayOfMonth(649)
+Match SimpleName: i(283) to SimpleName: i(281)
+Match SimpleType: DateTime(540) to SimpleType: DateTime(538)
+Match SimpleName: dayNode(460) to SimpleName: dayNode(458)
+Match MethodInvocation(259) to MethodInvocation(257)
+Match SimpleType: Transaction(405) to SimpleType: Transaction(403)
+Match SimpleName: tx(765) to SimpleName: tx(763)
+Match VariableDeclarationExpression(771) to VariableDeclarationExpression(769)
+Match MethodInvocation(594) to MethodInvocation(592)
+Match MethodInvocation(780) to MethodInvocation(778)
+Match SimpleName: dayNode(653) to SimpleName: dayNode(651)
+Match StringLiteral: "(year)-[:FIRST]->(month:Month {value:5}),"(239) to StringLiteral: "(year)-[:FIRST]->(month:Month {value:5}),"(237)
+Match ClassInstanceCreation(326) to ClassInstanceCreation(324)
+Match ExpressionStatement(289) to ExpressionStatement(287)
+Match SimpleName: fullTreeShouldBeCreatedWhenAFewDaysAreRequested2(807) to SimpleName: fullTreeShouldBeCreatedWhenAFewDaysAreRequested2(805)
+Match SimpleName: Transaction(451) to SimpleName: Transaction(449)
+Match VariableDeclarationStatement(105) to VariableDeclarationStatement(103)
+Match SimpleName: beginTx(266) to SimpleName: beginTx(264)
+Match SingleVariableDeclaration(1039) to SingleVariableDeclaration(1305)
+Match StringLiteral: "(root)-[:LAST]->(year2013:Year {value:2013}),"(1000) to StringLiteral: "(root)-[:LAST]->(year2013:Year {value:2013}),"(1266)
+Match PostfixExpression: ++(279) to PostfixExpression: ++(277)
+Match Modifier: public(89) to Modifier: public(87)
+Match StringLiteral: "(root)-[:LAST]->(year),"(136) to StringLiteral: "(root)-[:LAST]->(year),"(134)
+Match PrimitiveType: int(1066) to PrimitiveType: int(1332)
+Match SimpleName: timeTree(331) to SimpleName: timeTree(329)
+Match SimpleName: dateToMillis(955) to SimpleName: dateToMillis(953)
+Match MethodInvocation(928) to MethodInvocation(926)
+Match TextElement: .(39) to TextElement: .(37)
+Match ExpressionStatement(346) to ExpressionStatement(344)
+Match Assignment: =(83) to Assignment: =(81)
+Match VariableDeclarationExpression(213) to VariableDeclarationExpression(211)
+Match SimpleName: getYear(482) to SimpleName: getYear(480)
+Match PrimitiveType: long(962) to PrimitiveType: long(960)
+Match SimpleName: success(758) to SimpleName: success(756)
+Match StringLiteral: "(day4)-[:NEXT]->(day5),"(248) to StringLiteral: "(day4)-[:NEXT]->(day5),"(246)
+Match ImportDeclaration(13) to ImportDeclaration(13)
+Match Modifier: public(69) to Modifier: public(67)
+Match MethodInvocation(457) to MethodInvocation(455)
+Match SimpleName: tx(148) to SimpleName: tx(146)
+Match StringLiteral: "(day6)-[:NEXT]->(day7)"(250) to StringLiteral: "(day6)-[:NEXT]->(day7)"(248)
+Match InfixExpression: +(143) to InfixExpression: +(141)
+Match SimpleType: IllegalArgumentException(946) to SimpleType: IllegalArgumentException(944)
+Match QualifiedName: com.graphaware.module.timetree.SingleTimeTree.VALUE_PROPERTY(28) to QualifiedName: com.graphaware.module.timetree.SingleTimeTree.VALUE_PROPERTY(26)
+Match SimpleName: SingleTimeTreeTest(43) to SimpleName: SingleTimeTreeTest(41)
+Match SimpleName: timeTree(215) to SimpleName: timeTree(213)
+Match InfixExpression: +(293) to InfixExpression: +(291)
+Match StringLiteral: "(hour)-[:LAST]->(minute),"(394) to StringLiteral: "(hour)-[:LAST]->(minute),"(392)
+Match ImportDeclaration(3) to ImportDeclaration(3)
+Match SimpleName: getDatabase(580) to SimpleName: getDatabase(578)
+Match TryStatement(937) to TryStatement(935)
+Match InfixExpression: +(630) to InfixExpression: +(628)
+Match Block(901) to Block(899)
+Match SimpleName: getDatabase(995) to SimpleName: getDatabase(1261)
+Match NumberLiteral: 5(320) to NumberLiteral: 5(318)
+Match MethodInvocation(835) to MethodInvocation(833)
+Match StringLiteral: "(month112012)-[:CHILD]->(day01112012:Day {value:1}),"(1013) to StringLiteral: "(month112012)-[:CHILD]->(day01112012:Day {value:1}),"(1279)
+Match MarkerAnnotation(68) to MarkerAnnotation(66)
+Match StringLiteral: "(year)-[:CHILD]->(month),"(240) to StringLiteral: "(year)-[:CHILD]->(month),"(238)
+Match QualifiedName: Resolution.DAY(592) to QualifiedName: Resolution.DAY(590)
+Match PrimitiveType: int(270) to PrimitiveType: int(268)
+Match ExpressionStatement(986) to ExpressionStatement(984)
+Match CompilationUnit(1082) to CompilationUnit(1348)
+Match SimpleName: tx(789) to SimpleName: tx(787)
+Match SimpleType: Node(573) to SimpleType: Node(571)
+Match MethodInvocation(465) to MethodInvocation(463)
+Match SimpleName: hasLabel(515) to SimpleName: hasLabel(513)
+Match MethodInvocation(722) to MethodInvocation(720)
+Match Assignment: =(367) to Assignment: =(365)
+Match SimpleName: dateInMillis(315) to SimpleName: dateInMillis(313)
+Match SimpleName: Transaction(763) to SimpleName: Transaction(761)
+Match TryStatement(988) to TryStatement(986)
+Match SimpleName: getDatabase(355) to SimpleName: getDatabase(353)
+Match QualifiedName: org.joda.time.DateTimeZone(6) to QualifiedName: org.joda.time.DateTime(6)
+Match SimpleName: timeTree(817) to SimpleName: timeTree(815)
+Match StringLiteral: "UTC"(62) to StringLiteral: "UTC"(60)
+Match Modifier: public(665) to Modifier: public(663)
+Match NumberLiteral: 2(866) to NumberLiteral: 2(864)
+Match VariableDeclarationFragment(273) to VariableDeclarationFragment(271)
+Match MethodInvocation(483) to MethodInvocation(481)
+Match InfixExpression: +(480) to InfixExpression: +(478)
+Match SimpleName: tx(834) to SimpleName: tx(832)
+Match TryStatement(531) to TryStatement(529)
+Match SimpleName: DateTime(440) to SimpleName: DateTime(438)
+Match SuperMethodInvocation(75) to SuperMethodInvocation(73)
+Match Modifier: public(434) to Modifier: public(432)
+Match StringLiteral: "(month112012)-[:LAST]->(day10112012),"(1016) to StringLiteral: "(month112012)-[:LAST]->(day10112012),"(1282)
+Match ImportDeclaration(19) to ImportDeclaration(17)
+Match NumberLiteral: 4(184) to NumberLiteral: 4(182)
+Match SimpleName: getMillis(1051) to SimpleName: getMillis(1317)
+Match SimpleType: Transaction(854) to SimpleType: Transaction(852)
+Match ImportDeclaration(15) to ImportDeclaration(15)
+Match Block(172) to Block(170)
+Match ReturnStatement(1078) to ReturnStatement(1344)
+Match SimpleName: UTC(219) to SimpleName: UTC(217)
+Match MethodInvocation(581) to MethodInvocation(579)
+Match Modifier: public(950) to Modifier: public(948)
+Match ExpressionStatement(519) to ExpressionStatement(517)
+Match SimpleName: getDatabase(264) to SimpleName: getDatabase(262)
+Match MethodInvocation(64) to MethodInvocation(62)
+Match Block(85) to Block(83)
+Match SimpleName: Test(943) to SimpleName: Test(941)
+Match StringLiteral: "(root:TimeTreeRoot),"(998) to StringLiteral: "(root:TimeTreeRoot),"(1264)
+Match ImportDeclaration(23) to ImportDeclaration(21)
+Match MethodInvocation(476) to MethodInvocation(474)
+Match SimpleName: Test(309) to SimpleName: Test(307)
+Match SimpleName: getTimeZone(61) to SimpleName: getTimeZone(59)
+Match NumberLiteral: 2(732) to NumberLiteral: 2(730)
+Match SimpleName: size(257) to SimpleName: size(255)
+Match MethodInvocation(358) to MethodInvocation(356)
+Match SimpleName: beginTx(553) to SimpleName: beginTx(551)
+Match SimpleType: DateTimeZone(56) to SimpleType: DateTimeZone(54)
+Match StringLiteral: "(second)-[:LAST]->(milli)"(400) to StringLiteral: "(second)-[:LAST]->(milli)"(398)
+Match NumberLiteral: 1(731) to NumberLiteral: 1(729)
+Match MethodInvocation(288) to MethodInvocation(286)
+Match SimpleName: tx(929) to SimpleName: tx(927)
+Match MethodInvocation(759) to MethodInvocation(757)
+Match SimpleType: Transaction(452) to SimpleType: Transaction(450)
+Match StringLiteral: "(month022013)-[:CHILD]->(day01022013),"(1025) to StringLiteral: "(month022013)-[:CHILD]->(day01022013),"(1291)
+Match MethodInvocation(823) to MethodInvocation(821)
+Match Block(430) to Block(428)
+Match InfixExpression: +(251) to InfixExpression: +(249)
+Match SimpleName: getProperty(298) to SimpleName: getProperty(296)
+Match MethodInvocation(699) to MethodInvocation(697)
+Match MethodInvocation(656) to MethodInvocation(654)
+Match SimpleName: VALUE_PROPERTY(655) to SimpleName: VALUE_PROPERTY(653)
+Match SimpleName: Exception(72) to SimpleName: Exception(70)
+Match SimpleName: dateToMillis(190) to SimpleName: dateToMillis(188)
+Match ExpressionStatement(569) to ExpressionStatement(567)
+Match NumberLiteral: 11(891) to NumberLiteral: 11(889)
+Match SimpleName: dateInMillis(93) to SimpleName: dateInMillis(91)
+Match ExpressionStatement(471) to ExpressionStatement(469)
+Match StringLiteral: "(month)-[:CHILD]->(day5:Day {value:5}),"(243) to StringLiteral: "(month)-[:CHILD]->(day5:Day {value:5}),"(241)
+Match SimpleName: dateToMillis(749) to SimpleName: dateToMillis(747)
+Match MethodDeclaration(802) to MethodDeclaration(800)
+Match PrimitiveType: void(177) to PrimitiveType: void(175)
+Match Block(305) to Block(303)
+Match VariableDeclarationStatement(330) to VariableDeclarationStatement(328)
+Match MethodInvocation(920) to MethodInvocation(918)
+Match SimpleName: Node(101) to SimpleName: Node(99)
+Match SimpleName: dateToMillis(1036) to SimpleName: dateToMillis(1302)
+Match MethodInvocation(425) to MethodInvocation(423)
+Match PrimitiveType: void(806) to PrimitiveType: void(804)
+Match SimpleName: consecutiveDaysShouldBeCreatedWhenRequested(178) to SimpleName: consecutiveDaysShouldBeCreatedWhenRequested(176)
+Match MethodInvocation(222) to MethodInvocation(220)
+Match PackageDeclaration(1) to PackageDeclaration(1)
+Match StringLiteral: "(root)-[:LAST]->(year),"(382) to StringLiteral: "(root)-[:LAST]->(year),"(380)
+Match QualifiedName: org.junit.Assert.assertEquals(32) to QualifiedName: org.junit.Assert.assertEquals(30)
+Match NumberLiteral: 2013(775) to NumberLiteral: 2013(773)
+Match VariableDeclarationFragment(815) to VariableDeclarationFragment(813)
+Match MethodInvocation(652) to MethodInvocation(650)
+Match MethodInvocation(977) to MethodInvocation(975)
+Match MethodInvocation(637) to MethodInvocation(635)
+Match SimpleName: now(650) to SimpleName: now(648)
+Match SimpleName: success(898) to SimpleName: success(896)
+Match VariableDeclarationFragment(640) to VariableDeclarationFragment(638)
+Match SimpleName: tx(973) to SimpleName: tx(971)
+Match Assignment: =(121) to Assignment: =(119)
+Match MethodInvocation(341) to MethodInvocation(339)
+Match SimpleName: dayNode(514) to SimpleName: dayNode(512)
+Match ExpressionStatement(756) to ExpressionStatement(754)
+Match NumberLiteral: 2013(830) to NumberLiteral: 2013(828)
+Match SimpleName: dateToMillis(784) to SimpleName: dateToMillis(782)
+Match SimpleName: DateTime(539) to SimpleName: DateTime(537)
+Match SimpleName: tx(744) to SimpleName: tx(742)
+Match MethodDeclaration(173) to MethodDeclaration(171)
+Match ImportDeclaration(11) to ImportDeclaration(11)
+Match MethodInvocation(859) to MethodInvocation(857)
+Match SimpleName: day(1049) to SimpleName: day(1315)
+Match SimpleName: trivialTreeShouldBeCreatedWhenFirstMilliInstantIsRequested(313) to SimpleName: trivialTreeShouldBeCreatedWhenFirstMilliInstantIsRequested(311)
+Match ExpressionStatement(427) to ExpressionStatement(425)
+Match SimpleName: tx(563) to SimpleName: tx(561)
+Match SimpleType: Node(447) to SimpleType: Node(445)
+Match SimpleName: getInstants(216) to SimpleName: getInstants(214)
+Match StringLiteral: "(year)-[:FIRST]->(month:Month {value:4}),"(383) to StringLiteral: "(year)-[:FIRST]->(month:Month {value:4}),"(381)
+Match SimpleName: dayNode(643) to SimpleName: dayNode(641)
+Match Modifier: private(991) to Modifier: private(1257)
+Match MethodInvocation(626) to MethodInvocation(624)
+Match StringLiteral: "(month012013)-[:CHILD]->(day04012013),"(1021) to StringLiteral: "(month012013)-[:CHILD]->(day04012013),"(1287)
+Match StringLiteral: "(minute)-[:FIRST]->(second:Second {value:22}),"(395) to StringLiteral: "(minute)-[:FIRST]->(second:Second {value:22}),"(393)
+Match SimpleName: timeTree(837) to SimpleName: timeTree(835)
+Match SimpleName: now(441) to SimpleName: now(439)
+Match ExpressionStatement(228) to ExpressionStatement(226)
+Match SimpleName: beginTx(768) to SimpleName: beginTx(766)
+Match SimpleName: tx(712) to SimpleName: tx(710)
+Match SimpleName: getInstants(981) to SimpleName: getInstants(979)
+Match StringLiteral: "(month)-[:FIRST]->(day:Day {value:"(494) to StringLiteral: "(month)-[:FIRST]->(day:Day {value:"(492)
+Match MethodInvocation(510) to MethodInvocation(508)
+Match StringLiteral: "CREATE"(606) to StringLiteral: "CREATE"(604)
+Match SimpleName: month(1048) to SimpleName: month(1314)
+Match MethodInvocation(356) to MethodInvocation(354)
+Match SimpleName: startTime(982) to SimpleName: startTime(980)
+Match SimpleName: dateToMillis(181) to SimpleName: dateToMillis(179)
+Match ExpressionStatement(826) to ExpressionStatement(824)
+Match FieldDeclaration(66) to FieldDeclaration(64)
+Match TryStatement(797) to TryStatement(795)
+Match NumberLiteral: 2013(95) to NumberLiteral: 2013(93)
+Match StringLiteral: "(year)-[:FIRST]->(month:Month {value:"(487) to StringLiteral: "(year)-[:FIRST]->(month:Month {value:"(485)
+Match SimpleName: startDateInMillis(217) to SimpleName: startDateInMillis(215)
+Match SimpleName: getInstant(923) to SimpleName: getInstant(921)
+Match VariableDeclarationExpression(512) to VariableDeclarationExpression(510)
+Match SimpleName: timeTree(980) to SimpleName: timeTree(978)
+Match SimpleName: dayNode(115) to SimpleName: dayNode(113)
+Match SimpleName: dateToMillis(819) to SimpleName: dateToMillis(817)
+Match MethodInvocation(211) to MethodInvocation(209)
+Match SimpleName: success(370) to SimpleName: success(368)
+Match ExpressionStatement(875) to ExpressionStatement(873)
+Match SimpleName: VALUE_PROPERTY(424) to SimpleName: VALUE_PROPERTY(422)
+Match StringLiteral: "(month)-[:CHILD]->(day4:Day {value:4}),"(242) to StringLiteral: "(month)-[:CHILD]->(day4:Day {value:4}),"(240)
+Match StringLiteral: "}),"(620) to StringLiteral: "}),"(618)
+Match Block(851) to Block(849)
+Match SimpleName: instantNode(422) to SimpleName: instantNode(420)
+Match PrimitiveType: long(179) to PrimitiveType: long(177)
+Match NormalAnnotation(949) to NormalAnnotation(947)
+Match StringLiteral: "(month)-[:FIRST]->(day:Day {value:4}),"(140) to StringLiteral: "(month)-[:FIRST]->(day:Day {value:4}),"(138)
+Match Block(170) to Block(168)
+Match SimpleName: Test(174) to SimpleName: Test(172)
+Match SimpleName: tx(869) to SimpleName: tx(867)
+Match SimpleName: getInstant(363) to SimpleName: getInstant(361)
+Match SimpleName: tx(579) to SimpleName: tx(577)
+Match StringLiteral: "(root)-[:CHILD]->(year),"(614) to StringLiteral: "(root)-[:CHILD]->(year),"(612)
+Match VariableDeclarationStatement(351) to VariableDeclarationStatement(349)
+Match MethodInvocation(745) to MethodInvocation(743)
+Match TryStatement(717) to TryStatement(715)
+Match SimpleName: getNow(462) to SimpleName: getNow(460)
+Match SimpleType: Node(348) to SimpleType: Node(346)
+Match NumberLiteral: 2013(865) to NumberLiteral: 2013(863)
+Match SimpleType: DatabaseIntegrationTest(45) to SimpleType: DatabaseIntegrationTest(43)
+Match VariableDeclarationExpression(360) to VariableDeclarationExpression(358)
+Match SimpleName: DateTime(316) to SimpleName: DateTime(314)
+Match SimpleName: timeTree(116) to SimpleName: timeTree(114)
+Match PrimitiveType: long(188) to PrimitiveType: long(186)
+Match Modifier: public(42) to Modifier: public(40)
+Match SimpleName: getDayOfMonth(625) to SimpleName: getDayOfMonth(623)
+Match SimpleName: timeTree(77) to SimpleName: timeTree(75)
+Match SimpleType: DateTime(1070) to SimpleType: DateTime(1336)
+Match PrimitiveType: int(1037) to PrimitiveType: int(1303)
+Match SimpleName: tx(207) to SimpleName: tx(205)
+Match ExpressionStatement(126) to ExpressionStatement(124)
+Match StringLiteral: "(second)-[:FIRST]->(milli:Millisecond {value:123}),"(398) to StringLiteral: "(second)-[:FIRST]->(milli:Millisecond {value:123}),"(396)
+Match NumberLiteral: 10(917) to NumberLiteral: 10(915)
+Match SimpleName: UTC(442) to SimpleName: UTC(440)
+Match ExpressionStatement(503) to ExpressionStatement(501)
+Match NumberLiteral: 2013(820) to NumberLiteral: 2013(818)
+Match SimpleName: dateInMillis(118) to SimpleName: dateInMillis(116)
+Match SimpleName: getDatabase(906) to SimpleName: getDatabase(904)
+Match SimpleName: endTime(963) to SimpleName: endTime(961)
+Match MethodInvocation(825) to MethodInvocation(823)
+Match MethodInvocation(884) to MethodInvocation(882)
+Match SimpleName: tx(119) to SimpleName: tx(117)
+Match SimpleName: getMillis(327) to SimpleName: getMillis(325)
+Match NumberLiteral: 5(192) to NumberLiteral: 5(190)
+Match SimpleName: getInstantsWithStartTimeAfterEndTimeThrows(952) to SimpleName: getInstantsWithStartTimeAfterEndTimeThrows(950)
+Match SingleVariableDeclaration(1068) to SingleVariableDeclaration(1334)
+Match StringLiteral: "(root)-[:FIRST]->(year:Year {value:2013}),"(134) to StringLiteral: "(root)-[:FIRST]->(year:Year {value:2013}),"(132)
+Match VariableDeclarationExpression(274) to VariableDeclarationExpression(272)
+Match ImportDeclaration(5) to ImportDeclaration(5)
+Match MethodInvocation(112) to MethodInvocation(110)
+Match SimpleName: setUp(74) to SimpleName: setUp(72)
+Match ExpressionStatement(403) to ExpressionStatement(401)
+Match MethodInvocation(812) to MethodInvocation(810)
+Match SimpleName: timeTree(49) to SimpleName: timeTree(47)
+Match SimpleName: VALUE_PROPERTY(526) to SimpleName: VALUE_PROPERTY(524)
+Match NumberLiteral: 2(786) to NumberLiteral: 2(784)
+Match StringLiteral: "(root)-[:FIRST]->(year2012:Year {value:2012}),"(999) to StringLiteral: "(root)-[:FIRST]->(year2012:Year {value:2012}),"(1265)
+Match SimpleName: trivialTreeShouldBeCreatedWhenTodayIsRequested(436) to SimpleName: trivialTreeShouldBeCreatedWhenTodayIsRequested(434)
+Match StringLiteral: "(root)-[:FIRST]->(year:Year {value:2013}),"(236) to StringLiteral: "(root)-[:FIRST]->(year:Year {value:2013}),"(234)
+Match SimpleName: now(617) to SimpleName: now(615)
+Match MethodInvocation(753) to MethodInvocation(751)
+Match SimpleName: timeTree(772) to SimpleName: timeTree(770)
+Match VariableDeclarationExpression(412) to VariableDeclarationExpression(410)
+Match ExpressionStatement(940) to ExpressionStatement(938)
+Match NumberLiteral: 4(163) to NumberLiteral: 4(161)
+Match SimpleName: getProperty(165) to SimpleName: getProperty(163)
+Match ParameterizedType: List<Node>(201) to ParameterizedType: List<Node>(199)
+Match TryStatement(602) to TryStatement(600)
+Match MethodInvocation(144) to MethodInvocation(142)
+Match NumberLiteral: 13(321) to NumberLiteral: 13(319)
+Match MethodInvocation(893) to MethodInvocation(891)
+Match MethodInvocation(564) to MethodInvocation(562)
+Match QualifiedName: TimeTreeLabels.Day(645) to QualifiedName: TimeTreeLabels.Day(643)
+Match StringLiteral: "(month)-[:LAST]->(day)"(500) to StringLiteral: "(month)-[:LAST]->(day)"(498)
+Match SimpleName: tx(464) to SimpleName: tx(462)
+Match MethodInvocation(743) to MethodInvocation(741)
+Match NumberLiteral: 4(752) to NumberLiteral: 4(750)
+Match SimpleName: TimeZone(338) to SimpleName: TimeZone(336)
+Match MethodInvocation(882) to MethodInvocation(880)
+Match TryStatement(877) to TryStatement(875)
+Match SimpleName: tx(880) to SimpleName: tx(878)
+Match SimpleType: SingleTimeTree(333) to SimpleType: SingleTimeTree(331)
+Match PrimitiveType: long(953) to PrimitiveType: long(951)
+Match StringLiteral: "(root)-[:LAST]->(year),"(615) to StringLiteral: "(root)-[:LAST]->(year),"(613)
+Match TryStatement(660) to TryStatement(658)
+Match SimpleName: getProperty(423) to SimpleName: getProperty(421)
+Match Block(601) to Block(599)
+Match SimpleName: getDatabase(376) to SimpleName: getDatabase(374)
+Match VariableDeclarationFragment(104) to VariableDeclarationFragment(102)
+Match SimpleName: now(488) to SimpleName: now(486)
+Match ExpressionStatement(596) to ExpressionStatement(594)
+Match StringLiteral: "(hour)-[:FIRST]->(minute:Minute {value:56}),"(392) to StringLiteral: "(hour)-[:FIRST]->(minute:Minute {value:56}),"(390)
+Match NumberLiteral: 11(706) to NumberLiteral: 11(704)
+Match SimpleType: Transaction(719) to SimpleType: Transaction(717)
+Match ExpressionStatement(632) to ExpressionStatement(630)
+Match QualifiedName: org.neo4j.graphdb.DynamicLabel(14) to QualifiedName: org.neo4j.graphdb.Node(14)
+Match MethodInvocation(767) to MethodInvocation(765)
+Match SimpleName: tx(754) to SimpleName: tx(752)
+Match StringLiteral: "(year2012)-[:FIRST]->(month112012:Month {value:11}),"(1004) to StringLiteral: "(year2012)-[:FIRST]->(month112012:Month {value:11}),"(1270)
+Match SimpleName: graphShouldNotBeMutatedWhenExistingDayIsRequested(538) to SimpleName: graphShouldNotBeMutatedWhenExistingDayIsRequested(536)
+Match SimpleName: dateToMillis(94) to SimpleName: dateToMillis(92)
+Match SimpleName: dateToMillis(914) to SimpleName: dateToMillis(912)
+Match SimpleType: Transaction(764) to SimpleType: Transaction(762)
+Match MethodInvocation(909) to MethodInvocation(907)
+Match PrimitiveType: int(1060) to PrimitiveType: int(1326)
+Match MethodDeclaration(1055) to MethodDeclaration(1321)
+Match MethodInvocation(335) to MethodInvocation(333)
+Match VariableDeclarationFragment(50) to VariableDeclarationFragment(48)
+Match SimpleName: tx(757) to SimpleName: tx(755)
+Match SimpleType: Node(102) to SimpleType: Node(100)
+Match Block(796) to Block(794)
+Match Block(716) to Block(714)
+Match MethodInvocation(120) to MethodInvocation(118)
+Match MethodInvocation(159) to MethodInvocation(157)
+Match SimpleName: get(282) to SimpleName: get(280)
+Match SimpleName: getDatabase(974) to SimpleName: getDatabase(972)
+Match SimpleName: timeTree(922) to SimpleName: timeTree(920)
+Match VariableDeclarationExpression(269) to VariableDeclarationExpression(267)
+Match MethodInvocation(714) to MethodInvocation(712)
+Match TryStatement(306) to TryStatement(304)
+Match MethodInvocation(455) to MethodInvocation(453)
+Match Block(1032) to Block(1298)
+Match SimpleName: dateToMillis(679) to SimpleName: dateToMillis(677)
+Match VariableDeclarationFragment(268) to VariableDeclarationFragment(266)
+Match MethodInvocation(1052) to MethodInvocation(1318)
+Match MethodInvocation(724) to MethodInvocation(722)
+Match NumberLiteral: 2013(730) to NumberLiteral: 2013(728)
+Match VariableDeclarationExpression(886) to VariableDeclarationExpression(884)
+Match MethodInvocation(975) to MethodInvocation(973)
+Match MethodInvocation(599) to MethodInvocation(597)
+Match SimpleName: expected(944) to SimpleName: expected(942)
+Match StringLiteral: "(minute)-[:LAST]->(second),"(397) to StringLiteral: "(minute)-[:LAST]->(second),"(395)
+Match Modifier: private(1034) to Modifier: private(1300)
+Match SimpleName: dateInMillis(364) to SimpleName: dateInMillis(362)
+Match SimpleName: timeTree(887) to SimpleName: timeTree(885)
+Match VariableDeclarationExpression(911) to VariableDeclarationExpression(909)
+Match TryStatement(902) to TryStatement(900)
+Match StringLiteral: "(month)-[:FIRST]->(day:Day {value:5}),"(386) to StringLiteral: "(month)-[:FIRST]->(day:Day {value:5}),"(384)
+Match SimpleName: assertEquals(420) to SimpleName: assertEquals(418)
+Match MethodInvocation(377) to MethodInvocation(375)
+Match VariableDeclarationExpression(676) to VariableDeclarationExpression(674)
+Match SimpleName: now(543) to SimpleName: now(541)
+Match SimpleName: getInstant(678) to SimpleName: getInstant(676)
+Match SimpleName: Node(446) to SimpleName: Node(444)
+Match SimpleType: Transaction(578) to SimpleType: Transaction(576)
+Match SimpleName: month(1072) to SimpleName: month(1338)
+Match SimpleType: Transaction(147) to SimpleType: Transaction(145)
+Match NumberLiteral: 10(777) to NumberLiteral: 10(775)
+Match StringLiteral: "(year)-[:FIRST]->(month:Month {value:"(616) to StringLiteral: "(year)-[:FIRST]->(month:Month {value:"(614)
+Match SimpleName: getInstant(913) to SimpleName: getInstant(911)
+Match ExpressionStatement(686) to ExpressionStatement(684)
+Match SimpleName: getDatabase(721) to SimpleName: getDatabase(719)
+Match MethodInvocation(845) to MethodInvocation(843)
+Match MethodInvocation(528) to MethodInvocation(526)
+Match MethodInvocation(895) to MethodInvocation(893)
+Match SimpleName: getDatabase(766) to SimpleName: getDatabase(764)
+Match SimpleName: tx(695) to SimpleName: tx(693)
+Match SimpleName: beginTx(908) to SimpleName: beginTx(906)
+Match MethodInvocation(710) to MethodInvocation(708)
+Match VariableDeclarationFragment(725) to VariableDeclarationFragment(723)
+Match StringLiteral: "(year)-[:LAST]->(month),"(622) to StringLiteral: "(year)-[:LAST]->(month),"(620)
+Match NumberLiteral: 22(323) to NumberLiteral: 22(321)
+Match SimpleName: i(296) to SimpleName: i(294)
+Match SimpleName: assertTrue(642) to SimpleName: assertTrue(640)
+Match MethodInvocation(605) to MethodInvocation(603)
+Match QualifiedName: TimeTreeLabels.Day(158) to QualifiedName: TimeTreeLabels.Day(156)
+Match SimpleName: getDatabase(881) to SimpleName: getDatabase(879)
+Match SimpleName: Transaction(633) to SimpleName: Transaction(631)
+Match VariableDeclarationFragment(186) to VariableDeclarationFragment(184)
+Match MethodInvocation(968) to MethodInvocation(966)
+Match QualifiedName: org.neo4j.graphdb.Transaction(20) to QualifiedName: org.neo4j.graphdb.Transaction(18)
+Match ExpressionStatement(224) to ExpressionStatement(222)
+Match NumberLiteral: 11(926) to NumberLiteral: 11(924)
+Match Block(801) to Block(799)
+Match SimpleName: getDatabase(208) to SimpleName: getDatabase(206)
+Match MethodInvocation(790) to MethodInvocation(788)
+Match SimpleName: endDateInMillis(218) to SimpleName: endDateInMillis(216)
+Match Modifier: public(536) to Modifier: public(534)
+Match Assignment: =(223) to Assignment: =(221)
+Match PrimitiveType: int(1063) to PrimitiveType: int(1329)
+Match ExpressionStatement(850) to ExpressionStatement(848)
+Match SimpleType: TimeTree(48) to SimpleType: TimeTree(46)
+Match SimpleName: getInstant(748) to SimpleName: getInstant(746)
+Match SimpleName: tx(123) to SimpleName: tx(121)
+Match SimpleType: Transaction(206) to SimpleType: Transaction(204)
+Match SimpleType: DateTime(317) to SimpleType: DateTime(315)
+Match SimpleName: i(275) to SimpleName: i(273)
+Match NumberLiteral: 0(1075) to NumberLiteral: 0(1341)
+Match SimpleName: tx(597) to SimpleName: tx(595)
+Match SimpleName: tx(369) to SimpleName: tx(367)
+Match SimpleName: startDateInMillis(180) to SimpleName: startDateInMillis(178)
+Match SimpleName: getMillis(590) to SimpleName: getMillis(588)
+Match ExpressionStatement(84) to ExpressionStatement(82)
+Match MethodInvocation(366) to MethodInvocation(364)
+Match MethodInvocation(870) to MethodInvocation(868)
+Match PrimitiveType: void(951) to PrimitiveType: void(949)
+Match SimpleName: getDatabase(475) to SimpleName: getDatabase(473)
+Match SimpleName: instantNode(414) to SimpleName: instantNode(412)
+Match VariableDeclarationStatement(187) to VariableDeclarationStatement(185)
+Match VariableDeclarationFragment(978) to VariableDeclarationFragment(976)
+Match SimpleName: Transaction(146) to SimpleName: Transaction(144)
+Match VariableDeclarationFragment(113) to VariableDeclarationFragment(111)
+Match SimpleName: getDayOfMonth(496) to SimpleName: getDayOfMonth(494)
+Match SimpleName: tx(221) to SimpleName: tx(219)
+Match QualifiedName: Resolution.DAY(220) to QualifiedName: Resolution.DAY(218)
+Match SimpleName: hasLabel(285) to SimpleName: hasLabel(283)
+Match StringLiteral: "(month012013)-[:FIRST]->(day01012013),"(1018) to StringLiteral: "(month012013)-[:FIRST]->(day01012013),"(1284)
+Match NumberLiteral: 2013(785) to NumberLiteral: 2013(783)
+Update QualifiedName: com.graphaware.test.integration.DatabaseIntegrationTest(2) to com.graphaware.common.util.PropertyContainerUtils
+Update QualifiedName: org.joda.time.DateTime(4) to com.graphaware.test.integration.DatabaseIntegrationTest
+Update QualifiedName: org.joda.time.DateTimeZone(6) to org.joda.time.DateTime
+Update QualifiedName: org.junit.After(8) to org.joda.time.DateTimeZone
+Update QualifiedName: org.neo4j.graphdb.DynamicLabel(14) to org.neo4j.graphdb.Node
+Update QualifiedName: org.neo4j.graphdb.Node(18) to org.neo4j.graphdb.NotFoundException
+Update QualifiedName: org.neo4j.test.TestGraphDatabaseFactory(22) to org.neo4j.tooling.GlobalGraphOperations
+Update QualifiedName: com.graphaware.test.unit.GraphUnit(30) to com.graphaware.test.unit.GraphUnit.assertSameGraph
+Insert MethodDeclaration(1084) into TypeDeclaration(1347) at 15
+Insert MethodDeclaration(1256) into TypeDeclaration(1347) at 16
+Insert NormalAnnotation(995) into MethodDeclaration(1084) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert Modifier: public(996) into MethodDeclaration(1084) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert PrimitiveType: void(997) into MethodDeclaration(1084) at 2 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException(998) into MethodDeclaration(1084) at 3 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert Block(1083) into MethodDeclaration(1084) at 4 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert MarkerAnnotation(1086) into MethodDeclaration(1256) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert Modifier: public(1087) into MethodDeclaration(1256) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert PrimitiveType: void(1088) into MethodDeclaration(1256) at 2 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated(1089) into MethodDeclaration(1256) at 3 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert Block(1255) into MethodDeclaration(1256) at 4 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: Test(989) into NormalAnnotation(995) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert MemberValuePair(994) into NormalAnnotation(995) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert VariableDeclarationStatement(1007) into Block(1083) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert TryStatement(1028) into Block(1083) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert TryStatement(1061) into Block(1083) at 2 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert TryStatement(1082) into Block(1083) at 3 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: Test(1085) into MarkerAnnotation(1086) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert VariableDeclarationStatement(1098) into Block(1255) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert VariableDeclarationStatement(1103) into Block(1255) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert TryStatement(1124) into Block(1255) at 2 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert TryStatement(1157) into Block(1255) at 3 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert TryStatement(1188) into Block(1255) at 4 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert TryStatement(1211) into Block(1255) at 5 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert ExpressionStatement(1228) into Block(1255) at 6 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert TryStatement(1254) into Block(1255) at 7 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: expected(990) into MemberValuePair(994) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert TypeLiteral(993) into MemberValuePair(994) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert PrimitiveType: long(999) into VariableDeclarationStatement(1007) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert VariableDeclarationFragment(1006) into VariableDeclarationStatement(1007) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert VariableDeclarationExpression(1016) into TryStatement(1028) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert Block(1027) into TryStatement(1028) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert VariableDeclarationExpression(1037) into TryStatement(1061) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert Block(1060) into TryStatement(1061) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert VariableDeclarationExpression(1070) into TryStatement(1082) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert Block(1081) into TryStatement(1082) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert PrimitiveType: long(1090) into VariableDeclarationStatement(1098) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert VariableDeclarationFragment(1097) into VariableDeclarationStatement(1098) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleType: Node(1100) into VariableDeclarationStatement(1103) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert VariableDeclarationFragment(1102) into VariableDeclarationStatement(1103) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert VariableDeclarationExpression(1112) into TryStatement(1124) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert Block(1123) into TryStatement(1124) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert VariableDeclarationExpression(1133) into TryStatement(1157) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert Block(1156) into TryStatement(1157) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert VariableDeclarationExpression(1166) into TryStatement(1188) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert Block(1177) into TryStatement(1188) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert 12(1187) into TryStatement(1188) at 2 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert VariableDeclarationExpression(1197) into TryStatement(1211) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert Block(1210) into TryStatement(1211) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert MethodInvocation(1227) into ExpressionStatement(1228) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert VariableDeclarationExpression(1237) into TryStatement(1254) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert Block(1253) into TryStatement(1254) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleType: NotFoundException(992) into TypeLiteral(993) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: dateInMillis(1000) into VariableDeclarationFragment(1006) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert MethodInvocation(1005) into VariableDeclarationFragment(1006) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleType: Transaction(1009) into VariableDeclarationExpression(1016) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert VariableDeclarationFragment(1015) into VariableDeclarationExpression(1016) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert ExpressionStatement(1022) into Block(1027) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert ExpressionStatement(1026) into Block(1027) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleType: Transaction(1030) into VariableDeclarationExpression(1037) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert VariableDeclarationFragment(1036) into VariableDeclarationExpression(1037) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert 70(1055) into Block(1060) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert ExpressionStatement(1059) into Block(1060) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleType: Transaction(1063) into VariableDeclarationExpression(1070) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert VariableDeclarationFragment(1069) into VariableDeclarationExpression(1070) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert ExpressionStatement(1076) into Block(1081) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert ExpressionStatement(1080) into Block(1081) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: dateInMillis(1091) into VariableDeclarationFragment(1097) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert MethodInvocation(1096) into VariableDeclarationFragment(1097) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: Node(1099) into SimpleType: Node(1100) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: dayNode(1101) into VariableDeclarationFragment(1102) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleType: Transaction(1105) into VariableDeclarationExpression(1112) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert VariableDeclarationFragment(1111) into VariableDeclarationExpression(1112) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert ExpressionStatement(1118) into Block(1123) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert ExpressionStatement(1122) into Block(1123) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleType: Transaction(1126) into VariableDeclarationExpression(1133) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert VariableDeclarationFragment(1132) into VariableDeclarationExpression(1133) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert 70(1151) into Block(1156) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert ExpressionStatement(1155) into Block(1156) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleType: Transaction(1159) into VariableDeclarationExpression(1166) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert VariableDeclarationFragment(1165) into VariableDeclarationExpression(1166) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert ExpressionStatement(1172) into Block(1177) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert ExpressionStatement(1176) into Block(1177) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SingleVariableDeclaration(1181) into 12(1187) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert Block(1186) into 12(1187) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleType: Transaction(1190) into VariableDeclarationExpression(1197) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert VariableDeclarationFragment(1196) into VariableDeclarationExpression(1197) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert ExpressionStatement(1205) into Block(1210) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert ExpressionStatement(1209) into Block(1210) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: assertSameGraph(1212) into MethodInvocation(1227) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert MethodInvocation(1214) into MethodInvocation(1227) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert InfixExpression: +(1226) into MethodInvocation(1227) at 2 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleType: Transaction(1230) into VariableDeclarationExpression(1237) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert VariableDeclarationFragment(1236) into VariableDeclarationExpression(1237) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert ExpressionStatement(1244) into Block(1253) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert ExpressionStatement(1252) into Block(1253) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: NotFoundException(991) into SimpleType: NotFoundException(992) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: dateToMillis(1001) into MethodInvocation(1005) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert NumberLiteral: 2013(1002) into MethodInvocation(1005) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert NumberLiteral: 5(1003) into MethodInvocation(1005) at 2 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert NumberLiteral: 4(1004) into MethodInvocation(1005) at 3 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: Transaction(1008) into SimpleType: Transaction(1009) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: tx(1010) into VariableDeclarationFragment(1015) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert MethodInvocation(1014) into VariableDeclarationFragment(1015) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert MethodInvocation(1021) into ExpressionStatement(1022) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert MethodInvocation(1025) into ExpressionStatement(1026) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: Transaction(1029) into SimpleType: Transaction(1030) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: tx(1031) into VariableDeclarationFragment(1036) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert MethodInvocation(1035) into VariableDeclarationFragment(1036) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SingleVariableDeclaration(1041) into 70(1055) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert MethodInvocation(1048) into 70(1055) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert Block(1054) into 70(1055) at 2 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert MethodInvocation(1058) into ExpressionStatement(1059) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: Transaction(1062) into SimpleType: Transaction(1063) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: tx(1064) into VariableDeclarationFragment(1069) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert MethodInvocation(1068) into VariableDeclarationFragment(1069) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert MethodInvocation(1075) into ExpressionStatement(1076) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert MethodInvocation(1079) into ExpressionStatement(1080) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: dateToMillis(1092) into MethodInvocation(1096) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert NumberLiteral: 2013(1093) into MethodInvocation(1096) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert NumberLiteral: 5(1094) into MethodInvocation(1096) at 2 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert NumberLiteral: 4(1095) into MethodInvocation(1096) at 3 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: Transaction(1104) into SimpleType: Transaction(1105) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: tx(1106) into VariableDeclarationFragment(1111) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert MethodInvocation(1110) into VariableDeclarationFragment(1111) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert MethodInvocation(1117) into ExpressionStatement(1118) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert MethodInvocation(1121) into ExpressionStatement(1122) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: Transaction(1125) into SimpleType: Transaction(1126) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: tx(1127) into VariableDeclarationFragment(1132) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert MethodInvocation(1131) into VariableDeclarationFragment(1132) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SingleVariableDeclaration(1137) into 70(1151) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert MethodInvocation(1144) into 70(1151) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert Block(1150) into 70(1151) at 2 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert MethodInvocation(1154) into ExpressionStatement(1155) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: Transaction(1158) into SimpleType: Transaction(1159) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: tx(1160) into VariableDeclarationFragment(1165) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert MethodInvocation(1164) into VariableDeclarationFragment(1165) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert MethodInvocation(1171) into ExpressionStatement(1172) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert MethodInvocation(1175) into ExpressionStatement(1176) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleType: NotFoundException(1179) into SingleVariableDeclaration(1181) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: nfe(1180) into SingleVariableDeclaration(1181) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert ExpressionStatement(1185) into Block(1186) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: Transaction(1189) into SimpleType: Transaction(1190) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: tx(1191) into VariableDeclarationFragment(1196) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert MethodInvocation(1195) into VariableDeclarationFragment(1196) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert Assignment: =(1204) into ExpressionStatement(1205) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert MethodInvocation(1208) into ExpressionStatement(1209) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: getDatabase(1213) into MethodInvocation(1214) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert StringLiteral: "CREATE"(1215) into InfixExpression: +(1226) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert StringLiteral: "(root:TimeTreeRoot),"(1216) into InfixExpression: +(1226) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert StringLiteral: "(root)-[:FIRST]->(year:Year {value:2013}),"(1217) into InfixExpression: +(1226) at 2 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert StringLiteral: "(root)-[:CHILD]->(year),"(1218) into InfixExpression: +(1226) at 3 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert StringLiteral: "(root)-[:LAST]->(year),"(1219) into InfixExpression: +(1226) at 4 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert StringLiteral: "(year)-[:FIRST]->(month:Month {value:5}),"(1220) into InfixExpression: +(1226) at 5 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert StringLiteral: "(year)-[:CHILD]->(month),"(1221) into InfixExpression: +(1226) at 6 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert StringLiteral: "(year)-[:LAST]->(month),"(1222) into InfixExpression: +(1226) at 7 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert StringLiteral: "(month)-[:FIRST]->(day:Day {value:4}),"(1223) into InfixExpression: +(1226) at 8 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert StringLiteral: "(month)-[:CHILD]->(day),"(1224) into InfixExpression: +(1226) at 9 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert StringLiteral: "(month)-[:LAST]->(day)"(1225) into InfixExpression: +(1226) at 10 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: Transaction(1229) into SimpleType: Transaction(1230) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: tx(1231) into VariableDeclarationFragment(1236) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert MethodInvocation(1235) into VariableDeclarationFragment(1236) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert MethodInvocation(1243) into ExpressionStatement(1244) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert MethodInvocation(1251) into ExpressionStatement(1252) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert MethodInvocation(1012) into MethodInvocation(1014) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: beginTx(1013) into MethodInvocation(1014) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: timeTree(1017) into MethodInvocation(1021) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: getInstant(1018) into MethodInvocation(1021) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: dateInMillis(1019) into MethodInvocation(1021) at 2 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: tx(1020) into MethodInvocation(1021) at 3 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: tx(1023) into MethodInvocation(1025) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: success(1024) into MethodInvocation(1025) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert MethodInvocation(1033) into MethodInvocation(1035) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: beginTx(1034) into MethodInvocation(1035) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleType: Node(1039) into SingleVariableDeclaration(1041) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: node(1040) into SingleVariableDeclaration(1041) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert MethodInvocation(1046) into MethodInvocation(1048) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: getAllNodes(1047) into MethodInvocation(1048) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert ExpressionStatement(1053) into Block(1054) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: tx(1056) into MethodInvocation(1058) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: success(1057) into MethodInvocation(1058) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert MethodInvocation(1066) into MethodInvocation(1068) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: beginTx(1067) into MethodInvocation(1068) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: timeTree(1071) into MethodInvocation(1075) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: getInstant(1072) into MethodInvocation(1075) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: dateInMillis(1073) into MethodInvocation(1075) at 2 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: tx(1074) into MethodInvocation(1075) at 3 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: tx(1077) into MethodInvocation(1079) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: success(1078) into MethodInvocation(1079) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert MethodInvocation(1108) into MethodInvocation(1110) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: beginTx(1109) into MethodInvocation(1110) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: timeTree(1113) into MethodInvocation(1117) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: getInstant(1114) into MethodInvocation(1117) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: dateInMillis(1115) into MethodInvocation(1117) at 2 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: tx(1116) into MethodInvocation(1117) at 3 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: tx(1119) into MethodInvocation(1121) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: success(1120) into MethodInvocation(1121) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert MethodInvocation(1129) into MethodInvocation(1131) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: beginTx(1130) into MethodInvocation(1131) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleType: Node(1135) into SingleVariableDeclaration(1137) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: node(1136) into SingleVariableDeclaration(1137) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert MethodInvocation(1142) into MethodInvocation(1144) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: getAllNodes(1143) into MethodInvocation(1144) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert ExpressionStatement(1149) into Block(1150) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: tx(1152) into MethodInvocation(1154) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: success(1153) into MethodInvocation(1154) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert MethodInvocation(1162) into MethodInvocation(1164) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: beginTx(1163) into MethodInvocation(1164) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: timeTree(1167) into MethodInvocation(1171) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: getInstant(1168) into MethodInvocation(1171) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: dateInMillis(1169) into MethodInvocation(1171) at 2 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: tx(1170) into MethodInvocation(1171) at 3 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: tx(1173) into MethodInvocation(1175) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: success(1174) into MethodInvocation(1175) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: NotFoundException(1178) into SimpleType: NotFoundException(1179) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert MethodInvocation(1184) into ExpressionStatement(1185) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert MethodInvocation(1193) into MethodInvocation(1195) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: beginTx(1194) into MethodInvocation(1195) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: dayNode(1198) into Assignment: =(1204) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert MethodInvocation(1203) into Assignment: =(1204) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: tx(1206) into MethodInvocation(1208) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: success(1207) into MethodInvocation(1208) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert MethodInvocation(1233) into MethodInvocation(1235) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: beginTx(1234) into MethodInvocation(1235) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: assertTrue(1238) into MethodInvocation(1243) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert MethodInvocation(1242) into MethodInvocation(1243) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: assertEquals(1245) into MethodInvocation(1251) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert NumberLiteral: 4(1246) into MethodInvocation(1251) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert MethodInvocation(1250) into MethodInvocation(1251) at 2 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: getDatabase(1011) into MethodInvocation(1012) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: getDatabase(1032) into MethodInvocation(1033) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: Node(1038) into SimpleType: Node(1039) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: GlobalGraphOperations(1042) into MethodInvocation(1046) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: at(1043) into MethodInvocation(1046) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert MethodInvocation(1045) into MethodInvocation(1046) at 2 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert MethodInvocation(1052) into ExpressionStatement(1053) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: getDatabase(1065) into MethodInvocation(1066) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: getDatabase(1107) into MethodInvocation(1108) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: getDatabase(1128) into MethodInvocation(1129) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: Node(1134) into SimpleType: Node(1135) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: GlobalGraphOperations(1138) into MethodInvocation(1142) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: at(1139) into MethodInvocation(1142) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert MethodInvocation(1141) into MethodInvocation(1142) at 2 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert MethodInvocation(1148) into ExpressionStatement(1149) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: getDatabase(1161) into MethodInvocation(1162) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: timeTree(1182) into MethodInvocation(1184) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: invalidateCaches(1183) into MethodInvocation(1184) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: getDatabase(1192) into MethodInvocation(1193) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: timeTree(1199) into MethodInvocation(1203) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: getInstant(1200) into MethodInvocation(1203) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: dateInMillis(1201) into MethodInvocation(1203) at 2 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: tx(1202) into MethodInvocation(1203) at 3 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: getDatabase(1232) into MethodInvocation(1233) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: dayNode(1239) into MethodInvocation(1242) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: hasLabel(1240) into MethodInvocation(1242) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert QualifiedName: TimeTreeLabels.Day(1241) into MethodInvocation(1242) at 2 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: dayNode(1247) into MethodInvocation(1250) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: getProperty(1248) into MethodInvocation(1250) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: VALUE_PROPERTY(1249) into MethodInvocation(1250) at 2 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: getDatabase(1044) into MethodInvocation(1045) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: PropertyContainerUtils(1049) into MethodInvocation(1052) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: deleteNodeAndRelationships(1050) into MethodInvocation(1052) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: node(1051) into MethodInvocation(1052) at 2 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: getDatabase(1140) into MethodInvocation(1141) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: PropertyContainerUtils(1145) into MethodInvocation(1148) at 0 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: deleteNodeAndRelationships(1146) into MethodInvocation(1148) at 1 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Insert SimpleName: node(1147) into MethodInvocation(1148) at 2 on Method whenTheRootIsDeletedAndCacheInvalidatedTimeInstantShouldBeCreated
+Delete QualifiedName: org.neo4j.graphdb.GraphDatabaseService(16)
+Delete ImportDeclaration(17)

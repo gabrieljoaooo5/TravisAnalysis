@@ -1,0 +1,347 @@
+Match QualifiedName: TimeTreeLabels.Day(164) to QualifiedName: TimeTreeLabels.Day(154)
+Match Modifier: static(47) to Modifier: static(37)
+Match SimpleName: tx(129) to SimpleName: tx(119)
+Match Modifier: private(46) to Modifier: private(36)
+Match SimpleName: dateToMillis(87) to SimpleName: dateToMillis(77)
+Match SimpleType: Transaction(100) to SimpleType: Transaction(90)
+Match SimpleName: beginTx(104) to SimpleName: beginTx(94)
+Match SimpleName: month(210) to SimpleName: month(312)
+Match ImportDeclaration(29) to ImportDeclaration(19)
+Match SimpleName: tx(154) to SimpleName: tx(144)
+Match SimpleName: createNode(71) to SimpleName: createNode(61)
+Match StringLiteral: "(root)-[:CHILD]->(year),"(141) to StringLiteral: "(root)-[:CHILD]->(year),"(131)
+Match QualifiedName: org.junit.Assert.assertTrue(34) to QualifiedName: org.junit.Assert.assertTrue(24)
+Match SimpleName: dayNode(96) to SimpleName: dayNode(86)
+Match SimpleName: GraphDatabaseService(66) to SimpleName: GraphDatabaseService(56)
+Match SingleVariableDeclaration(191) to SingleVariableDeclaration(293)
+Match SimpleName: dateToDateTime(205) to SimpleName: dateToDateTime(307)
+Match PrimitiveType: int(212) to PrimitiveType: int(314)
+Match TryStatement(134) to TryStatement(124)
+Match VariableDeclarationStatement(93) to VariableDeclarationStatement(83)
+Match StringLiteral: "(root)-[:LAST]->(year),"(142) to StringLiteral: "(root)-[:LAST]->(year),"(132)
+Match SimpleName: month(218) to SimpleName: month(320)
+Match MethodInvocation(105) to MethodInvocation(95)
+Match Modifier: public(82) to Modifier: public(72)
+Match SimpleName: DateTimeZone(49) to SimpleName: DateTimeZone(39)
+Match MethodInvocation(173) to MethodInvocation(163)
+Match ImportDeclaration(35) to ImportDeclaration(25)
+Match Modifier: protected(63) to Modifier: protected(53)
+Match VariableDeclarationExpression(107) to VariableDeclarationExpression(97)
+Match SingleVariableDeclaration(208) to SingleVariableDeclaration(310)
+Match SimpleName: success(130) to SimpleName: success(120)
+Match StringLiteral: "UTC"(56) to StringLiteral: "UTC"(46)
+Match SimpleName: Override(61) to SimpleName: Override(51)
+Match MethodInvocation(137) to MethodInvocation(127)
+Match PrimitiveType: void(83) to PrimitiveType: void(73)
+Match SimpleName: tx(101) to SimpleName: tx(91)
+Match SimpleType: Node(95) to SimpleType: Node(85)
+Match VariableDeclarationFragment(159) to VariableDeclarationFragment(149)
+Match SimpleName: DateTimeZone(52) to SimpleName: DateTimeZone(42)
+Match SingleVariableDeclaration(214) to SingleVariableDeclaration(316)
+Match SimpleName: dayNode(162) to SimpleName: dayNode(152)
+Match MethodInvocation(76) to MethodInvocation(66)
+Match MethodInvocation(150) to MethodInvocation(140)
+Match ImportDeclaration(11) to ImportDeclaration(9)
+Match SimpleName: database(68) to SimpleName: database(58)
+Match PrimitiveType: int(183) to PrimitiveType: int(285)
+Match VariableDeclarationFragment(92) to VariableDeclarationFragment(82)
+Match SimpleName: Transaction(152) to SimpleName: Transaction(142)
+Match SimpleName: TimeTree(108) to SimpleName: TimeTree(98)
+Match FieldDeclaration(60) to FieldDeclaration(50)
+Match ExpressionStatement(167) to ExpressionStatement(157)
+Match SimpleName: CustomRootTimeTree(111) to SimpleName: CustomRootTimeTree(101)
+Match SingleVariableDeclaration(69) to SingleVariableDeclaration(59)
+Match ExpressionStatement(128) to ExpressionStatement(118)
+Match SimpleName: hasLabel(163) to SimpleName: hasLabel(153)
+Match Modifier: public(42) to Modifier: public(32)
+Match VariableDeclarationFragment(97) to VariableDeclarationFragment(87)
+Match StringLiteral: "(year)-[:FIRST]->(month:Month {value:5}),"(143) to StringLiteral: "(year)-[:FIRST]->(month:Month {value:5}),"(133)
+Match PrimitiveType: int(186) to PrimitiveType: int(288)
+Match SimpleName: timeTree(110) to SimpleName: timeTree(100)
+Match MethodDeclaration(179) to MethodDeclaration(169)
+Match CompilationUnit(228) to CompilationUnit(330)
+Match SimpleType: DateTimeZone(50) to SimpleType: DateTimeZone(40)
+Match NumberLiteral: 4(90) to NumberLiteral: 4(80)
+Match MethodInvocation(75) to MethodInvocation(65)
+Match SimpleName: getProperty(171) to SimpleName: getProperty(161)
+Match MethodInvocation(114) to MethodInvocation(104)
+Match SimpleName: Test(80) to SimpleName: Test(70)
+Match SimpleName: day(190) to SimpleName: day(292)
+Match SimpleName: getDatabase(113) to SimpleName: getDatabase(103)
+Match Block(176) to Block(166)
+Match StringLiteral: "(month)-[:CHILD]->(day),"(147) to StringLiteral: "(month)-[:CHILD]->(day),"(137)
+Match MethodDeclaration(226) to MethodDeclaration(328)
+Match SimpleName: year(217) to SimpleName: year(319)
+Match QualifiedName: com.graphaware.module.timetree(0) to QualifiedName: com.graphaware.module.timetree(0)
+Match MethodInvocation(57) to MethodInvocation(47)
+Match SimpleName: UTC(51) to SimpleName: UTC(41)
+Match SimpleName: assertTrue(161) to SimpleName: assertTrue(151)
+Match ExpressionStatement(132) to ExpressionStatement(122)
+Match ClassInstanceCreation(223) to ClassInstanceCreation(325)
+Match VariableDeclarationStatement(98) to VariableDeclarationStatement(88)
+Match StringLiteral: "(year)-[:LAST]->(month),"(145) to StringLiteral: "(year)-[:LAST]->(month),"(135)
+Match QualifiedName: org.junit.Test(12) to QualifiedName: org.junit.Test(10)
+Match ImportDeclaration(33) to ImportDeclaration(23)
+Match ClassInstanceCreation(118) to ClassInstanceCreation(108)
+Match ReturnStatement(199) to ReturnStatement(301)
+Match SimpleName: timeTree(122) to SimpleName: timeTree(112)
+Match QualifiedName: org.junit.Assert.assertEquals(32) to QualifiedName: org.junit.Assert.assertEquals(22)
+Match SimpleName: forTimeZone(53) to SimpleName: forTimeZone(43)
+Match PackageDeclaration(1) to PackageDeclaration(1)
+Match SimpleName: year(193) to SimpleName: year(295)
+Match ImportDeclaration(5) to ImportDeclaration(5)
+Match TextElement: Unit test for (36) to TextElement: Unit test for (26)
+Match QualifiedName: com.graphaware.module.timetree.SingleTimeTree(37) to QualifiedName: com.graphaware.module.timetree.SingleTimeTree(27)
+Match SimpleType: DateTime(204) to SimpleType: DateTime(306)
+Match QualifiedName: java.util.TimeZone(26) to QualifiedName: java.util.TimeZone(16)
+Match SimpleName: populateDatabase(65) to SimpleName: populateDatabase(55)
+Match NumberLiteral: 0(220) to NumberLiteral: 0(322)
+Match VariableDeclarationStatement(120) to VariableDeclarationStatement(110)
+Match PrimitiveType: int(209) to PrimitiveType: int(311)
+Match VariableDeclarationExpression(160) to VariableDeclarationExpression(150)
+Match SimpleName: trivialTreeShouldBeCreatedWhenFirstDayIsRequested(84) to SimpleName: trivialTreeShouldBeCreatedWhenFirstDayIsRequested(74)
+Match SimpleName: UTC(222) to SimpleName: UTC(324)
+Match PrimitiveType: long(85) to PrimitiveType: long(75)
+Match MethodInvocation(158) to MethodInvocation(148)
+Match MethodInvocation(126) to MethodInvocation(116)
+Match PrimitiveType: long(181) to PrimitiveType: long(283)
+Match MethodInvocation(198) to MethodInvocation(300)
+Match SimpleName: database(70) to SimpleName: database(60)
+Match ExpressionStatement(151) to ExpressionStatement(141)
+Match SimpleName: day(213) to SimpleName: day(315)
+Match TextElement: .(39) to TextElement: .(29)
+Match Block(133) to Block(123)
+Match SimpleName: dateToDateTime(192) to SimpleName: dateToDateTime(294)
+Match SimpleName: label(73) to SimpleName: label(63)
+Match QualifiedName: org.joda.time.DateTime(4) to QualifiedName: com.graphaware.test.integration.DatabaseIntegrationTest(4)
+Match StringLiteral: "(year)-[:CHILD]->(month),"(144) to StringLiteral: "(year)-[:CHILD]->(month),"(134)
+Match SimpleName: year(207) to SimpleName: year(309)
+Match MethodDeclaration(201) to MethodDeclaration(303)
+Match NumberLiteral: 5(89) to NumberLiteral: 5(79)
+Match MethodInvocation(131) to MethodInvocation(121)
+Match StringLiteral: "(month)-[:FIRST]->(day:Day {value:4}),"(146) to StringLiteral: "(month)-[:FIRST]->(day:Day {value:4}),"(136)
+Match NumberLiteral: 4(169) to NumberLiteral: 4(159)
+Match SimpleName: VALUE_PROPERTY(172) to SimpleName: VALUE_PROPERTY(162)
+Match ImportDeclaration(31) to ImportDeclaration(21)
+Match SimpleName: getInstant(123) to SimpleName: getInstant(113)
+Match SimpleType: CustomRootTimeTree(112) to SimpleType: CustomRootTimeTree(102)
+Match ImportDeclaration(21) to ImportDeclaration(15)
+Match SimpleType: DatabaseIntegrationTest(45) to SimpleType: DatabaseIntegrationTest(35)
+Match SimpleName: dateInMillis(86) to SimpleName: dateInMillis(76)
+Match VariableDeclarationFragment(59) to VariableDeclarationFragment(49)
+Match Block(200) to Block(302)
+Match ImportDeclaration(27) to ImportDeclaration(17)
+Match QualifiedName: com.graphaware.module.timetree.SingleTimeTree.VALUE_PROPERTY(28) to QualifiedName: com.graphaware.module.timetree.SingleTimeTree.VALUE_PROPERTY(18)
+Match QualifiedName: com.graphaware.test.integration.DatabaseIntegrationTest(2) to QualifiedName: com.graphaware.common.util.PropertyContainerUtils(2)
+Match VariableDeclarationFragment(119) to VariableDeclarationFragment(109)
+Match SimpleName: assertSameGraph(135) to SimpleName: assertSameGraph(125)
+Match PrimitiveType: void(64) to PrimitiveType: void(54)
+Match NumberLiteral: 2013(88) to NumberLiteral: 2013(78)
+Match MethodInvocation(103) to MethodInvocation(93)
+Match SimpleName: getMillis(197) to SimpleName: getMillis(299)
+Match QualifiedName: com.graphaware.test.unit.GraphUnit.assertSameGraph(30) to QualifiedName: com.graphaware.test.unit.GraphUnit.assertSameGraph(20)
+Match SimpleName: assertEquals(168) to SimpleName: assertEquals(158)
+Match MethodInvocation(165) to MethodInvocation(155)
+Match SimpleType: DateTime(216) to SimpleType: DateTime(318)
+Match SimpleName: dateToMillis(182) to SimpleName: dateToMillis(284)
+Match StringLiteral: "(month)-[:LAST]->(day)"(148) to StringLiteral: "(month)-[:LAST]->(day)"(138)
+Match InfixExpression: +(149) to InfixExpression: +(139)
+Match SimpleName: dayNode(170) to SimpleName: dayNode(160)
+Match MarkerAnnotation(81) to MarkerAnnotation(71)
+Match SimpleName: DatabaseIntegrationTest(44) to SimpleName: DatabaseIntegrationTest(34)
+Match ImportDeclaration(3) to ImportDeclaration(3)
+Match SimpleName: DateTime(215) to SimpleName: DateTime(317)
+Match SingleVariableDeclaration(211) to SingleVariableDeclaration(313)
+Match ExpressionStatement(175) to ExpressionStatement(165)
+Match QualifiedName: org.joda.time.DateTimeZone(6) to QualifiedName: org.joda.time.DateTime(6)
+Match SimpleName: getTimeZone(55) to SimpleName: getTimeZone(45)
+Match StringLiteral: "CustomRoot"(74) to StringLiteral: "CustomRoot"(64)
+Match ImportDeclaration(19) to ImportDeclaration(13)
+Match NumberLiteral: 0(221) to NumberLiteral: 0(323)
+Match SimpleName: getNodeById(115) to SimpleName: getNodeById(105)
+Match Modifier: private(202) to Modifier: private(304)
+Match MethodInvocation(117) to MethodInvocation(107)
+Match TypeDeclaration(227) to TypeDeclaration(329)
+Match SimpleName: dayNode(121) to SimpleName: dayNode(111)
+Match SimpleName: TimeZone(54) to SimpleName: TimeZone(44)
+Match TryStatement(177) to TryStatement(167)
+Match SimpleName: tx(125) to SimpleName: tx(115)
+Match StringLiteral: "(root)-[:FIRST]->(year:Year {value:2013}),"(140) to StringLiteral: "(root)-[:FIRST]->(year:Year {value:2013}),"(130)
+Match VariableDeclarationFragment(106) to VariableDeclarationFragment(96)
+Match MethodInvocation(156) to MethodInvocation(146)
+Match NumberLiteral: 0(116) to NumberLiteral: 0(106)
+Match MethodInvocation(174) to MethodInvocation(164)
+Match MethodInvocation(166) to MethodInvocation(156)
+Match SimpleName: year(184) to SimpleName: year(286)
+Match SimpleName: dateInMillis(124) to SimpleName: dateInMillis(114)
+Match SimpleName: getDatabase(155) to SimpleName: getDatabase(145)
+Match PrimitiveType: int(206) to PrimitiveType: int(308)
+Match TagElement: @link(38) to TagElement: @link(28)
+Match SimpleName: DynamicLabel(72) to SimpleName: DynamicLabel(62)
+Match SimpleName: DateTime(203) to SimpleName: DateTime(305)
+Match Block(78) to Block(68)
+Match SimpleName: month(194) to SimpleName: month(296)
+Match MarkerAnnotation(62) to MarkerAnnotation(52)
+Match MethodInvocation(91) to MethodInvocation(81)
+Match MethodInvocation(58) to MethodInvocation(48)
+Match SimpleName: Node(94) to SimpleName: Node(84)
+Match Assignment: =(127) to Assignment: =(117)
+Match Modifier: private(180) to Modifier: private(282)
+Match SimpleType: TimeTree(109) to SimpleType: TimeTree(99)
+Match SimpleType: Transaction(153) to SimpleType: Transaction(143)
+Match ImportDeclaration(13) to ImportDeclaration(11)
+Match SimpleName: Transaction(99) to SimpleName: Transaction(89)
+Match MethodInvocation(196) to MethodInvocation(298)
+Match SimpleName: CustomRootTimeTreeTest(43) to SimpleName: CustomRootTimeTreeTest(33)
+Match SimpleName: beginTx(157) to SimpleName: beginTx(147)
+Match SingleVariableDeclaration(188) to SingleVariableDeclaration(290)
+Match QualifiedName: org.neo4j.graphdb.Node(18) to QualifiedName: org.neo4j.graphdb(12)
+Match SimpleName: day(219) to SimpleName: day(321)
+Match StringLiteral: "(root:CustomRoot),"(139) to StringLiteral: "(root:CustomRoot),"(129)
+Match ImportDeclaration(7) to ImportDeclaration(7)
+Match StringLiteral: "CREATE"(138) to StringLiteral: "CREATE"(128)
+Match MethodDeclaration(79) to MethodDeclaration(69)
+Match ExpressionStatement(77) to ExpressionStatement(67)
+Match Javadoc(41) to Javadoc(31)
+Match TagElement(40) to TagElement(30)
+Match SimpleName: month(187) to SimpleName: month(289)
+Match PrimitiveType: int(189) to PrimitiveType: int(291)
+Match SimpleName: day(195) to SimpleName: day(297)
+Match SimpleType: GraphDatabaseService(67) to SimpleType: GraphDatabaseService(57)
+Match QualifiedName: org.neo4j.graphdb.Transaction(20) to QualifiedName: org.neo4j.tooling.GlobalGraphOperations(14)
+Match SimpleName: getDatabase(102) to SimpleName: getDatabase(92)
+Match QualifiedName: org.junit.Before(10) to QualifiedName: org.joda.time.DateTimeZone(8)
+Match ReturnStatement(224) to ReturnStatement(326)
+Match SingleVariableDeclaration(185) to SingleVariableDeclaration(287)
+Match SimpleName: getDatabase(136) to SimpleName: getDatabase(126)
+Match Block(225) to Block(327)
+Match Modifier: final(48) to Modifier: final(38)
+Match Block(178) to Block(168)
+Update QualifiedName: com.graphaware.test.integration.DatabaseIntegrationTest(2) to com.graphaware.common.util.PropertyContainerUtils
+Update QualifiedName: org.joda.time.DateTime(4) to com.graphaware.test.integration.DatabaseIntegrationTest
+Update QualifiedName: org.joda.time.DateTimeZone(6) to org.joda.time.DateTime
+Update QualifiedName: org.junit.Before(10) to org.joda.time.DateTimeZone
+Update QualifiedName: org.neo4j.graphdb.Node(18) to org.neo4j.graphdb
+Update QualifiedName: org.neo4j.graphdb.Transaction(20) to org.neo4j.tooling.GlobalGraphOperations
+Insert MethodDeclaration(281) into TypeDeclaration(329) at 7
+Insert 77(176) into MethodDeclaration(281) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert Modifier: public(177) into MethodDeclaration(281) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert PrimitiveType: void(178) into MethodDeclaration(281) at 2 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException(179) into MethodDeclaration(281) at 3 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert Block(280) into MethodDeclaration(281) at 4 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: Test(170) into 77(176) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert 80(175) into 77(176) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert VariableDeclarationStatement(188) into Block(280) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert VariableDeclarationStatement(193) into Block(280) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert TryStatement(225) into Block(280) at 2 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert TryStatement(258) into Block(280) at 3 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert TryStatement(279) into Block(280) at 4 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: expected(171) into 80(175) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert 57(174) into 80(175) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert PrimitiveType: long(180) into VariableDeclarationStatement(188) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert VariableDeclarationFragment(187) into VariableDeclarationStatement(188) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleType: TimeTree(190) into VariableDeclarationStatement(193) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert VariableDeclarationFragment(192) into VariableDeclarationStatement(193) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert VariableDeclarationExpression(202) into TryStatement(225) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert Block(224) into TryStatement(225) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert VariableDeclarationExpression(234) into TryStatement(258) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert Block(257) into TryStatement(258) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert VariableDeclarationExpression(267) into TryStatement(279) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert Block(278) into TryStatement(279) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleType: NotFoundException(173) into 57(174) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: dateInMillis(181) into VariableDeclarationFragment(187) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert MethodInvocation(186) into VariableDeclarationFragment(187) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: TimeTree(189) into SimpleType: TimeTree(190) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: timeTree(191) into VariableDeclarationFragment(192) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleType: Transaction(195) into VariableDeclarationExpression(202) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert VariableDeclarationFragment(201) into VariableDeclarationExpression(202) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert ExpressionStatement(213) into Block(224) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert ExpressionStatement(219) into Block(224) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert ExpressionStatement(223) into Block(224) at 2 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleType: Transaction(227) into VariableDeclarationExpression(234) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert VariableDeclarationFragment(233) into VariableDeclarationExpression(234) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert 70(252) into Block(257) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert ExpressionStatement(256) into Block(257) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleType: Transaction(260) into VariableDeclarationExpression(267) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert VariableDeclarationFragment(266) into VariableDeclarationExpression(267) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert ExpressionStatement(273) into Block(278) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert ExpressionStatement(277) into Block(278) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: NotFoundException(172) into SimpleType: NotFoundException(173) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: dateToMillis(182) into MethodInvocation(186) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert NumberLiteral: 2013(183) into MethodInvocation(186) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert NumberLiteral: 5(184) into MethodInvocation(186) at 2 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert NumberLiteral: 4(185) into MethodInvocation(186) at 3 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: Transaction(194) into SimpleType: Transaction(195) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: tx(196) into VariableDeclarationFragment(201) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert MethodInvocation(200) into VariableDeclarationFragment(201) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert Assignment: =(212) into ExpressionStatement(213) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert MethodInvocation(218) into ExpressionStatement(219) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert MethodInvocation(222) into ExpressionStatement(223) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: Transaction(226) into SimpleType: Transaction(227) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: tx(228) into VariableDeclarationFragment(233) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert MethodInvocation(232) into VariableDeclarationFragment(233) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SingleVariableDeclaration(238) into 70(252) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert MethodInvocation(245) into 70(252) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert Block(251) into 70(252) at 2 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert MethodInvocation(255) into ExpressionStatement(256) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: Transaction(259) into SimpleType: Transaction(260) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: tx(261) into VariableDeclarationFragment(266) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert MethodInvocation(265) into VariableDeclarationFragment(266) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert MethodInvocation(272) into ExpressionStatement(273) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert MethodInvocation(276) into ExpressionStatement(277) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert MethodInvocation(198) into MethodInvocation(200) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: beginTx(199) into MethodInvocation(200) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: timeTree(203) into Assignment: =(212) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert ClassInstanceCreation(211) into Assignment: =(212) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: timeTree(214) into MethodInvocation(218) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: getInstant(215) into MethodInvocation(218) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: dateInMillis(216) into MethodInvocation(218) at 2 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: tx(217) into MethodInvocation(218) at 3 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: tx(220) into MethodInvocation(222) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: success(221) into MethodInvocation(222) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert MethodInvocation(230) into MethodInvocation(232) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: beginTx(231) into MethodInvocation(232) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleType: Node(236) into SingleVariableDeclaration(238) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: node(237) into SingleVariableDeclaration(238) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert MethodInvocation(243) into MethodInvocation(245) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: getAllNodes(244) into MethodInvocation(245) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert ExpressionStatement(250) into Block(251) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: tx(253) into MethodInvocation(255) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: success(254) into MethodInvocation(255) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert MethodInvocation(263) into MethodInvocation(265) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: beginTx(264) into MethodInvocation(265) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: timeTree(268) into MethodInvocation(272) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: getInstant(269) into MethodInvocation(272) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: dateInMillis(270) into MethodInvocation(272) at 2 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: tx(271) into MethodInvocation(272) at 3 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: tx(274) into MethodInvocation(276) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: success(275) into MethodInvocation(276) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: getDatabase(197) into MethodInvocation(198) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleType: CustomRootTimeTree(205) into ClassInstanceCreation(211) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert MethodInvocation(210) into ClassInstanceCreation(211) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: getDatabase(229) into MethodInvocation(230) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: Node(235) into SimpleType: Node(236) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: GlobalGraphOperations(239) into MethodInvocation(243) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: at(240) into MethodInvocation(243) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert MethodInvocation(242) into MethodInvocation(243) at 2 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert MethodInvocation(249) into ExpressionStatement(250) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: getDatabase(262) into MethodInvocation(263) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: CustomRootTimeTree(204) into SimpleType: CustomRootTimeTree(205) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert MethodInvocation(207) into MethodInvocation(210) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: getNodeById(208) into MethodInvocation(210) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert NumberLiteral: 0(209) into MethodInvocation(210) at 2 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: getDatabase(241) into MethodInvocation(242) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: PropertyContainerUtils(246) into MethodInvocation(249) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: deleteNodeAndRelationships(247) into MethodInvocation(249) at 1 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: node(248) into MethodInvocation(249) at 2 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Insert SimpleName: getDatabase(206) into MethodInvocation(207) at 0 on Method whenTheRootIsDeletedSubsequentRestApiCallsShouldThrowNotFoundException
+Delete QualifiedName: org.junit.After(8)
+Delete ImportDeclaration(9)
+Delete QualifiedName: org.neo4j.graphdb.DynamicLabel(14)
+Delete ImportDeclaration(15)
+Delete QualifiedName: org.neo4j.graphdb.GraphDatabaseService(16)
+Delete ImportDeclaration(17)
+Delete QualifiedName: org.neo4j.test.TestGraphDatabaseFactory(22)
+Delete ImportDeclaration(23)
+Delete QualifiedName: java.util.List(24)
+Delete ImportDeclaration(25)

@@ -1,0 +1,556 @@
+Match SimpleType: Transaction(35) to SimpleType: Transaction(37)
+Match SimpleName: Node(308) to SimpleName: Event(203)
+Match SimpleName: tx(146) to SimpleName: tx(184)
+Match TagElement: @param(162) to TagElement: @param(136)
+Match TagElement: @param(296) to TagElement: @param(194)
+Match TextElement: nodes that represent instances of time, making sure that a tree of time is maintained with each created node.(11) to TextElement: nodes that represent instances of time, making sure that a tree of time is maintained with each created node.(13)
+Match SimpleName: tx(410) to SimpleName: tx(158)
+Match TagElement: @param(372) to TagElement: @param(257)
+Match CompilationUnit(414) to CompilationUnit(294)
+Match TagElement: @param(72) to TagElement: @param(68)
+Match SimpleName: Transaction(281) to SimpleName: Transaction(248)
+Match SimpleName: tx(47) to SimpleName: tx(46)
+Match TextElement: <p/>(21) to TextElement: <p/>(23)
+Match SimpleName: Resolution(404) to SimpleName: RelationshipType(284)
+Match SimpleName: DateTimeZone(236) to SimpleName: Event(174)
+Match TextElement: which can choose a sensible default, require to be configured with a default when instantiated, or both.(20) to TextElement: which can choose a sensible default, require to be configured with a default when instantiated, or both.(22)
+Match SimpleName: tx(210) to SimpleName: tx(217)
+Match TagElement: @param(340) to TagElement: @param(227)
+Match TextElement:    UTC time in ms from 1/1/1970 of the end of the interval (inclusive).(295) to TextElement:    TimeInstant representing the end of the interval (inclusive)(193)
+Match SimpleName: getNow(81) to SimpleName: getInstant(77)
+Match ParameterizedType: List<Node>(310) to ParameterizedType: List<Event>(205)
+Match TextElement: Get a node representing this time instant. If one doesn't exist, it will be created.(17) to TextElement: Get a node representing this time instant. If one doesn't exist, it will be created.(19)
+Match SimpleType: Node(80) to SimpleType: Node(76)
+Match SimpleName: resolution(84) to SimpleName: timeInstant(80)
+Match SimpleName: time(129) to SimpleName: eventNode(122)
+Match SingleVariableDeclaration(321) to SingleVariableDeclaration(214)
+Match SimpleName: getNow(33) to SimpleName: getNow(35)
+Match TagElement: @return(77) to TagElement: @return(73)
+Match SimpleName: getInstants(393) to SimpleName: getEventsBetweenInstants(275)
+Match SimpleType: List(389) to SimpleType: List(271)
+Match SingleVariableDeclaration(403) to SingleVariableDeclaration(283)
+Match SimpleName: List(388) to SimpleName: List(270)
+Match SingleVariableDeclaration(85) to SingleVariableDeclaration(81)
+Match SimpleName: time(154) to SimpleName: eventRelationDirection(128)
+Match TagElement: @param(375) to TagElement: @param(260)
+Match Javadoc(78) to Javadoc(74)
+Match TagElement: @param(27) to TagElement: @param(29)
+Match SimpleName: tx(283) to SimpleName: tx(250)
+Match SimpleName: Transaction(144) to SimpleName: Transaction(182)
+Match MethodDeclaration(38) to MethodDeclaration(40)
+Match SimpleName: tx(25) to SimpleName: tx(27)
+Match TextElement:   UTC time in ms from 1/1/1970 of the start of the interval (inclusive).(371) to TextElement:      TimeInstant representing the start of the interval (inclusive)(256)
+Match SimpleName: resolution(114) to SimpleName: endTime(113)
+Match SimpleType: Node(54) to SimpleType: Node(53)
+Match Javadoc(346) to Javadoc(233)
+Match TextElement: Get a node representing a specific time instant. If one doesn't exist, it will be created.(213) to TextElement: Get events attached to a specific time instant. If the time instant doesn't exist, it will be created.(161)
+Match SimpleName: Transaction(176) to SimpleName: Direction(148)
+Match TagElement(43) to TagElement(42)
+Match TextElement:  nodes representing all time instants in the interval, ordered chronologically.(303) to TextElement:  events attached to all time instants in the interval, ordered chronologically(198)
+Match SimpleName: DateTimeZone(56) to SimpleName: TimeInstant(55)
+Match SimpleName: DateTimeZone(172) to SimpleName: RelationshipType(144)
+Match SingleVariableDeclaration(147) to SingleVariableDeclaration(185)
+Match SimpleType: Node(32) to SimpleType: Node(34)
+Match SingleVariableDeclaration(63) to SingleVariableDeclaration(62)
+Match SimpleName: timeZone(93) to SimpleName: startTime(89)
+Match TextElement:          currently running transaction.(383) to TextElement:             currently running transaction.(265)
+Match TagElement: @param(302) to TagElement: @param(197)
+Match Javadoc(229) to Javadoc(171)
+Match MethodDeclaration(412) to MethodDeclaration(292)
+Match TagElement: @param(49) to TagElement: @param(48)
+Match TagElement: @param(131) to TagElement: @param(124)
+Match SimpleName: tx(73) to SimpleName: tx(69)
+Match SimpleName: tx(99) to SimpleName: tx(95)
+Match TextElement:  node representing the time instant when this method was called.(102) to TextElement:  nodes representing all time instants in the interval, ordered chronologically.(98)
+Match TagElement: @param(226) to TagElement: @param(168)
+Match SimpleName: timeZone(218) to SimpleName: timeInstant(163)
+Match SimpleType: Transaction(61) to SimpleType: Transaction(60)
+Match TagElement: @param(75) to TagElement: @param(71)
+Match SimpleName: TimeTree(16) to SimpleName: TimeTree(18)
+Match Javadoc(104) to Javadoc(100)
+Match SimpleType: List(270) to SimpleType: List(102)
+Match QualifiedName: org.joda.time.DateTimeZone(2) to QualifiedName: org.neo4j.graphdb.Direction(2)
+Match TextElement:  UTC time in ms from 1/1/1970.(130) to TextElement:               event node to be associated with this instant of time(123)
+Match TagElement: @param(156) to TagElement: @param(130)
+Match TextElement:          currently running transaction.(225) to TextElement:           currently running transaction.(167)
+Match SimpleName: endTime(294) to SimpleName: endTime(192)
+Match TagElement(214) to TagElement(162)
+Match SimpleName: tx(88) to SimpleName: tx(84)
+Match TagElement: @param(384) to TagElement: @param(266)
+Match SimpleType: Node(391) to SimpleType: Event(273)
+Match SimpleName: tx(324) to SimpleName: tx(290)
+Match SimpleType: Transaction(177) to SimpleType: Direction(149)
+Match TagElement: @param(101) to TagElement: @param(97)
+Match SimpleName: Node(230) to SimpleName: List(172)
+Match SimpleName: List(269) to SimpleName: List(101)
+Match SimpleName: tx(178) to SimpleName: eventRelationDirection(150)
+Match SimpleType: DateTimeZone(109) to SimpleType: TimeInstant(108)
+Match ParameterizedType: List<Node>(392) to ParameterizedType: List<Event>(274)
+Match TagElement(331) to TagElement(221)
+Match SimpleName: Node(271) to SimpleName: Node(103)
+Match SimpleName: Transaction(86) to SimpleName: Transaction(82)
+Match SimpleName: timeZone(110) to SimpleName: startTime(109)
+Match SimpleName: resolution(361) to SimpleName: timeInstant(242)
+Match TagElement: @param(343) to TagElement: @param(230)
+Match TagElement(24) to TagElement(26)
+Match SimpleName: time(170) to SimpleName: eventNode(142)
+Match TagElement(13) to TagElement(15)
+Match SimpleName: DateTimeZone(108) to SimpleName: TimeInstant(107)
+Match SingleVariableDeclaration(411) to SingleVariableDeclaration(159)
+Match SimpleName: Transaction(322) to SimpleName: Transaction(288)
+Match SimpleType: Transaction(409) to SimpleType: Transaction(157)
+Match SimpleName: resolution(379) to SimpleName: eventRelation(261)
+Match TagElement: @param(134) to TagElement: @param(127)
+Match SimpleType: Resolution(205) to SimpleType: TimeInstant(153)
+Match SimpleType: Transaction(323) to SimpleType: Transaction(289)
+Match TagElement: @param(98) to TagElement: @param(94)
+Match SimpleName: Transaction(116) to SimpleName: Transaction(115)
+Match SimpleName: timeZone(402) to SimpleName: endTime(282)
+Match SimpleType: Node(272) to SimpleType: Node(104)
+Match SimpleName: Resolution(82) to SimpleName: TimeInstant(78)
+Match SimpleName: tx(300) to SimpleName: tx(195)
+Match TypeDeclaration(413) to TypeDeclaration(293)
+Match QualifiedName: org.neo4j.graphdb.Transaction(6) to QualifiedName: org.neo4j.graphdb.Transaction(8)
+Match SimpleName: getInstants(352) to SimpleName: getEventsAtInstant(239)
+Match SimpleType: Transaction(117) to SimpleType: Transaction(116)
+Match SimpleType: Transaction(364) to SimpleType: RelationshipType(245)
+Match QualifiedName: org.neo4j.graphdb.Node(4) to QualifiedName: org.neo4j.graphdb.Node(4)
+Match ImportDeclaration(9) to ImportDeclaration(11)
+Match SimpleName: Node(390) to SimpleName: Event(272)
+Match SingleVariableDeclaration(314) to SingleVariableDeclaration(210)
+Match SingleVariableDeclaration(179) to SingleVariableDeclaration(151)
+Match TextElement:  nodes representing all time instants in the interval, ordered chronologically.(344) to TextElement:  events attached to the time instant with the specified relation(231)
+Match SimpleType: DateTimeZone(319) to SimpleType: TimeInstant(212)
+Match TagElement: @param(334) to TagElement: @param(224)
+Match TextElement: <p/>(18) to TextElement: <p/>(20)
+Match Javadoc(387) to Javadoc(269)
+Match SimpleName: tx(382) to SimpleName: tx(264)
+Match TagElement: @param(293) to TagElement: @param(191)
+Match SimpleName: DateTimeZone(400) to SimpleName: TimeInstant(280)
+Match TagElement: @return(386) to TagElement: @return(268)
+Match TextElement: Get nodes representing all time instants in the specified range (inclusive). The ones that don't exist will be created.(286) to TextElement: Get events attached to all time instants in the specified range (inclusive). The time instants that don't exist will be created.(187)
+Match TextElement:          currently running transaction.(74) to TextElement:           currently running transaction.(70)
+Match TextElement:  specific time zone.(158) to TextElement:             specific TimeInstant to attach the event to(132)
+Match TextElement:  UTC time in ms from 1/1/1970 of the start of the interval (inclusive).(292) to TextElement:  TimeInstant representing the start of the interval (inclusive)(190)
+Match SimpleName: getNow(55) to SimpleName: getNow(54)
+Match SimpleName: tx(246) to SimpleName: timeInstant(180)
+Match SimpleType: DateTimeZone(57) to SimpleType: TimeInstant(56)
+Match TextElement: The time zone of the time instant depends on the implementation, which can choose a default, require to be(22) to TextElement: The time zone of the time instant depends on the implementation, which can choose a default, require to be(24)
+Match ImportDeclaration(5) to ImportDeclaration(5)
+Match SimpleName: timeZone(174) to SimpleName: eventRelation(146)
+Match SimpleName: List(306) to SimpleName: List(201)
+Match MethodDeclaration(367) to MethodDeclaration(252)
+Match SimpleType: Transaction(145) to SimpleType: Transaction(183)
+Match SingleVariableDeclaration(247) to SingleVariableDeclaration(181)
+Match TextElement:  node representing the time instant when this method was called.(28) to TextElement:  node representing the time instant when this method was called.(30)
+Match SimpleType: Transaction(87) to SimpleType: Transaction(83)
+Match TextElement:    specific time zone.(219) to TextElement:  specific TimeInstant(164)
+Match MethodDeclaration(120) to MethodDeclaration(119)
+Match SimpleName: Transaction(408) to SimpleName: Transaction(156)
+Match SingleVariableDeclaration(407) to SingleVariableDeclaration(287)
+Match SimpleName: Resolution(112) to SimpleName: TimeInstant(111)
+Match SimpleName: DateTimeZone(318) to SimpleName: TimeInstant(211)
+Match TextElement: API for representing time as a tree (also called GraphAware TimeTree). Provides methods for creating and retrieving(10) to TextElement: API for representing time as a tree (also called GraphAware TimeTree). Provides methods for creating and retrieving(12)
+Match TagElement: @param(95) to TagElement: @param(91)
+Match SingleVariableDeclaration(89) to SingleVariableDeclaration(85)
+Match SingleVariableDeclaration(366) to SingleVariableDeclaration(247)
+Match SimpleName: resolution(406) to SimpleName: eventRelation(286)
+Match TagElement: @param(159) to TagElement: @param(133)
+Match SingleVariableDeclaration(119) to SingleVariableDeclaration(118)
+Match ImportDeclaration(7) to ImportDeclaration(9)
+Match QualifiedName: com.graphaware.module.timetree(0) to QualifiedName: com.graphaware.module.timetree(0)
+Match MethodDeclaration(64) to MethodDeclaration(63)
+Match SimpleType: Transaction(245) to SimpleType: TimeInstant(179)
+Match SimpleName: startTime(332) to SimpleName: timeInstant(222)
+Match TextElement: Get a node representing this time instant. If one doesn't exist, it will be created.(65) to TextElement: Get a node representing a specific time instant. If one doesn't exist, it will be created.(64)
+Match SimpleName: tx(224) to SimpleName: tx(166)
+Match TextElement: Get a node representing this time instant. If one doesn't exist, it will be created.(39) to TextElement: Get a node representing this time instant. If one doesn't exist, it will be created.(41)
+Match SimpleType: Node(309) to SimpleType: Event(204)
+Match SimpleType: DateTimeZone(173) to SimpleType: RelationshipType(145)
+Match SingleVariableDeclaration(175) to SingleVariableDeclaration(147)
+Match Javadoc(30) to Javadoc(32)
+Match TextElement:  node representing the time instant when this method was called.(76) to TextElement:  node representing a specific time instant.(72)
+Match SingleVariableDeclaration(362) to SingleVariableDeclaration(243)
+Match TextElement:  specific resolution.(380) to TextElement:  relationship attaching the event to the timeInstant(262)
+Match SimpleName: Transaction(363) to SimpleName: RelationshipType(244)
+Match SingleVariableDeclaration(37) to SingleVariableDeclaration(39)
+Match SimpleName: endTime(373) to SimpleName: endTime(258)
+Match SimpleType: Node(350) to SimpleType: Event(237)
+Match TextElement:          currently running transaction.(342) to TextElement:             currently running transaction.(229)
+Match SimpleType: Resolution(360) to SimpleType: TimeInstant(241)
+Match TextElement:  specific time zone.(45) to TextElement:  specific TimeInstant(44)
+Match SingleVariableDeclaration(115) to SingleVariableDeclaration(114)
+Match ParameterizedType: List<Node>(351) to ParameterizedType: List<Event>(238)
+Match TagElement: @return(29) to TagElement: @return(31)
+Match SimpleType: List(348) to SimpleType: List(235)
+Match TagElement(290) to TagElement(188)
+Match SingleVariableDeclaration(284) to SingleVariableDeclaration(251)
+Match ParameterizedType: List<Node>(273) to ParameterizedType: List<Node>(105)
+Match SingleVariableDeclaration(396) to SingleVariableDeclaration(279)
+Match MethodDeclaration(326) to MethodDeclaration(219)
+Match SimpleType: Transaction(209) to SimpleType: Transaction(216)
+Match TagElement(128) to TagElement(121)
+Match SingleVariableDeclaration(325) to SingleVariableDeclaration(291)
+Match TagElement: @return(51) to TagElement: @return(50)
+Match SimpleType: Resolution(405) to SimpleType: RelationshipType(285)
+Match SimpleName: tx(132) to SimpleName: eventRelation(125)
+Match TextElement: Get a node representing a specific time instant. If one doesn't exist, it will be created.(121) to TextElement: Attach an event to a node representing a specific time instant. If the time instant doesn't exist, it will be created.(120)
+Match SimpleName: Resolution(204) to SimpleName: TimeInstant(152)
+Match SingleVariableDeclaration(207) to SingleVariableDeclaration(155)
+Match SimpleName: resolution(96) to SimpleName: endTime(92)
+Match TextElement: configured with a default when instantiated, or both.(23) to TextElement: configured with a default when instantiated, or both.(25)
+Match SingleVariableDeclaration(111) to SingleVariableDeclaration(110)
+Match SimpleName: startTime(370) to SimpleName: startTime(255)
+Match SimpleName: Transaction(34) to SimpleName: Transaction(36)
+Match TextElement:   UTC time in ms from 1/1/1970 of the start of the interval (inclusive).(333) to TextElement:    specific TimeInstant(223)
+Match TextElement:      UTC time in ms from 1/1/1970.(155) to TextElement:  Direction of the eventRelation from the event node to the time instant node(129)
+Match SimpleName: tx(365) to SimpleName: eventRelation(246)
+Match Javadoc(52) to Javadoc(51)
+Match TextElement: Get a node representing this time instant. If one doesn't exist, it will be created.(91) to TextElement: Get nodes representing all time instants in the specified range (inclusive). The ones that don't exist will be created.(87)
+Match Javadoc(14) to Javadoc(16)
+Match SimpleName: Node(166) to SimpleName: Node(140)
+Match Javadoc(305) to Javadoc(200)
+Match MethodDeclaration(248) to MethodDeclaration(186)
+Match TextElement:    specific time zone.(94) to TextElement:  TimeInstant representing the start of the interval (inclusive)(90)
+Match SimpleType: Resolution(113) to SimpleType: TimeInstant(112)
+Match TagElement: @param(220) to TagElement: @param(165)
+Match SimpleName: tx(160) to SimpleName: tx(134)
+Match MethodDeclaration(90) to MethodDeclaration(86)
+Match SimpleName: resolution(338) to SimpleName: eventRelation(225)
+Match SimpleName: tx(341) to SimpleName: tx(228)
+Match SimpleName: Transaction(60) to SimpleName: Transaction(59)
+Match SimpleName: Transaction(208) to SimpleName: Transaction(215)
+Match TextElement: The resolution of the time instant (i.e., whether it is a day, hour, minute, etc.) depends on the implementation,(19) to TextElement: The resolution of the time instant (i.e., whether it is a day, hour, minute, etc.) depends on the implementation,(21)
+Match TextElement: Get nodes representing all time instants in the specified range (inclusive). The ones that don't exist will be created.(327) to TextElement: Get events attached to a specific time instant with a specific relation. If the time instant doesn't exist, it will be created.(220)
+Match SimpleName: timeZone(320) to SimpleName: endTime(213)
+Match SimpleName: startTime(395) to SimpleName: startTime(278)
+Match SimpleName: tx(36) to SimpleName: tx(38)
+Match SimpleName: tx(62) to SimpleName: tx(61)
+Match TagElement: @return(228) to TagElement: @return(170)
+Match TagElement: @param(381) to TagElement: @param(263)
+Match ImportDeclaration(3) to ImportDeclaration(3)
+Match SimpleName: timeZone(44) to SimpleName: timeInstant(43)
+Match SimpleName: Node(53) to SimpleName: Node(52)
+Match TextElement:  currently running transaction.(26) to TextElement:  currently running transaction.(28)
+Match SingleVariableDeclaration(211) to SingleVariableDeclaration(218)
+Match TextElement:          currently running transaction.(100) to TextElement:         currently running transaction.(96)
+Match TextElement: There is no support for changes or deletes.(12) to TextElement: There is no support for changes or deletes.(14)
+Match TagElement: @return(103) to TagElement: @return(99)
+Match SimpleName: timeZone(157) to SimpleName: timeInstant(131)
+Match SimpleName: Transaction(244) to SimpleName: TimeInstant(178)
+Match PackageDeclaration(1) to PackageDeclaration(1)
+Match SimpleType: Resolution(83) to SimpleType: TimeInstant(79)
+Match SimpleName: startTime(291) to SimpleName: startTime(189)
+Match SimpleName: Resolution(359) to SimpleName: TimeInstant(240)
+Match SimpleType: DateTimeZone(401) to SimpleType: TimeInstant(281)
+Match SimpleName: Node(79) to SimpleName: Node(75)
+Match TextElement:        currently running transaction.(161) to TextElement:                      currently running transaction.(135)
+Match SimpleName: List(347) to SimpleName: List(234)
+Match TagElement: @return(345) to TagElement: @return(232)
+Match TextElement:  nodes representing all time instants in the interval, ordered chronologically.(385) to TextElement:  events attached to all time instants in the interval with the specified relation, ordered chronologically(267)
+Match TagElement: @return(304) to TagElement: @return(199)
+Match SimpleType: Transaction(282) to SimpleType: Transaction(249)
+Match SimpleName: startTime(313) to SimpleName: startTime(209)
+Match TagElement: @param(46) to TagElement: @param(45)
+Match SimpleName: timeZone(58) to SimpleName: timeInstant(57)
+Match TextElement:  node representing the time instant when this method was called.(50) to TextElement:  node representing the time instant(49)
+Match TagElement(92) to TagElement(88)
+Match TextElement:  specific resolution.(339) to TextElement:  relationship attaching the event to the timeInstant(226)
+Match SimpleName: getInstants(311) to SimpleName: getEventsBetweenInstants(206)
+Match QualifiedName: java.util.List(8) to QualifiedName: java.util.List(10)
+Match SimpleName: resolution(70) to SimpleName: timeInstant(66)
+Match TextElement:        currently running transaction.(48) to TextElement:           currently running transaction.(47)
+Match TextElement:  specific resolution.(71) to TextElement:  specific TimeInstant(67)
+Match Modifier: public(15) to Modifier: public(17)
+Match SimpleName: getNow(107) to SimpleName: getInstants(106)
+Match TextElement:         currently running transaction.(301) to TextElement:         currently running transaction.(196)
+Match TextElement: Get nodes representing all time instants in the specified range (inclusive). The ones that don't exist will be created.(368) to TextElement: Get events attached to all time instants with the specified relation, in the specified range (inclusive). The time instants that don't exist will be created.(253)
+Match SimpleType: List(307) to SimpleType: List(202)
+Match TagElement(69) to TagElement(65)
+Match TextElement:    currently running transaction.(133) to TextElement:           RelationshipType between the event node and the time instant node(126)
+Match SingleVariableDeclaration(59) to SingleVariableDeclaration(58)
+Match TagElement(369) to TagElement(254)
+Match TextElement:     UTC time in ms from 1/1/1970 of the end of the interval (inclusive).(374) to TextElement:        TimeInstant representing the end of the interval (inclusive)(259)
+Match SimpleName: tx(118) to SimpleName: tx(117)
+Match SimpleName: Node(349) to SimpleName: Event(236)
+Match SimpleName: resolution(206) to SimpleName: timeInstant(154)
+Match TextElement:  node representing a specific time instant.(227) to TextElement:  events attached to the time instant(169)
+Match TextElement:  specific resolution.(97) to TextElement:    TimeInstant representing the end of the interval (inclusive)(93)
+Match SimpleName: Node(31) to SimpleName: Node(33)
+Insert ImportDeclaration(7) into CompilationUnit(294) at 3
+Update QualifiedName: org.joda.time.DateTimeZone(2) to org.neo4j.graphdb.Direction
+Insert QualifiedName: org.neo4j.graphdb.RelationshipType(6) into ImportDeclaration(7) at 0
+Insert MethodDeclaration(160) into TypeDeclaration(293) at 7
+Update SimpleName: getNow(81) to getInstant on Method getNow
+Move ParameterizedType: List<Node>(273) into MethodDeclaration(119) at 1 on Method getInstants
+Update SimpleName: getNow(107) to getInstants on Method getNow
+Insert Javadoc(137) into MethodDeclaration(160) at 0 on Method attachEventToInstant
+Insert PrimitiveType: void(138) into MethodDeclaration(160) at 1 on Method attachEventToInstant
+Insert SimpleName: attachEventToInstant(139) into MethodDeclaration(160) at 2 on Method attachEventToInstant
+Insert SingleVariableDeclaration(143) into MethodDeclaration(160) at 3 on Method attachEventToInstant
+Move SingleVariableDeclaration(175) into MethodDeclaration(160) at 4 on Method getInstant
+Move SingleVariableDeclaration(179) into MethodDeclaration(160) at 5 on Method getInstant
+Move SingleVariableDeclaration(207) into MethodDeclaration(160) at 6 on Method getInstant
+Move SingleVariableDeclaration(411) into MethodDeclaration(160) at 7 on Method getInstants
+Insert ParameterizedType: List<Event>(176) into MethodDeclaration(186) at 1 on Method getEventsAtInstant
+Insert SimpleName: getEventsAtInstant(177) into MethodDeclaration(186) at 2 on Method getEventsAtInstant
+Move SingleVariableDeclaration(147) into MethodDeclaration(186) at 9 on Method getInstant
+Update ParameterizedType: List<Node>(310) to List<Event> on Method getInstants
+Update SimpleName: getInstants(311) to getEventsBetweenInstants on Method getInstants
+Move SingleVariableDeclaration(211) into MethodDeclaration(219) at 6 on Method getInstant
+Update ParameterizedType: List<Node>(351) to List<Event> on Method getInstants
+Update SimpleName: getInstants(352) to getEventsAtInstant on Method getInstants
+Move SingleVariableDeclaration(284) into MethodDeclaration(252) at 7 on Method getInstants
+Update ParameterizedType: List<Node>(392) to List<Event> on Method getInstants
+Update SimpleName: getInstants(393) to getEventsBetweenInstants on Method getInstants
+Move SingleVariableDeclaration(325) into MethodDeclaration(292) at 7 on Method getEventsBetweenInstants
+Update SimpleType: DateTimeZone(57) to TimeInstant on Method getNow
+Update SimpleName: timeZone(58) to timeInstant on Method getNow
+Update SimpleType: Resolution(83) to TimeInstant on Method getInstant
+Update SimpleName: resolution(84) to timeInstant on Method getInstant
+Update SimpleType: DateTimeZone(109) to TimeInstant on Method getInstants
+Update SimpleName: timeZone(110) to startTime on Method getInstants
+Update SimpleType: Resolution(113) to TimeInstant on Method getInstants
+Update SimpleName: resolution(114) to endTime on Method getInstants
+Move TagElement(128) into Javadoc(137) at 0 on Method getInstant
+Move TagElement: @param(131) into Javadoc(137) at 1 on Method getInstant
+Move TagElement: @param(134) into Javadoc(137) at 2 on Method getInstant
+Move TagElement: @param(156) into Javadoc(137) at 3 on Method getInstant
+Move TagElement: @param(159) into Javadoc(137) at 4 on Method getInstant
+Move TagElement: @param(162) into Javadoc(137) at 5 on Method getInstant
+Insert SimpleType: Node(141) into SingleVariableDeclaration(143) at 0 on Method attachEventToInstant
+Update SimpleName: time(170) to eventNode on Method getInstant
+Move SimpleName: time(170) into SingleVariableDeclaration(143) at 1 on Method getInstant
+Update SimpleType: DateTimeZone(173) to RelationshipType
+Update SimpleName: timeZone(174) to eventRelation
+Update SimpleType: Transaction(177) to Direction
+Update SimpleName: tx(178) to eventRelationDirection
+Update SimpleType: Resolution(205) to TimeInstant
+Update SimpleName: resolution(206) to timeInstant
+Insert SimpleType: List(173) into ParameterizedType: List<Event>(176) at 0 on Method getEventsAtInstant
+Insert SimpleType: Event(175) into ParameterizedType: List<Event>(176) at 1 on Method getEventsAtInstant
+Update SimpleType: Transaction(245) to TimeInstant on Method getInstant
+Update SimpleName: tx(246) to timeInstant on Method getInstant
+Update SimpleType: Node(309) to Event on Method getEventsBetweenInstants
+Insert SimpleType: TimeInstant(208) into SingleVariableDeclaration(210) at 0 on Method getEventsBetweenInstants
+Update SimpleType: DateTimeZone(319) to TimeInstant on Method getEventsBetweenInstants
+Update SimpleName: timeZone(320) to endTime on Method getEventsBetweenInstants
+Update SimpleType: Node(350) to Event on Method getEventsAtInstant
+Update SimpleType: Resolution(360) to TimeInstant on Method getEventsAtInstant
+Update SimpleName: resolution(361) to timeInstant on Method getEventsAtInstant
+Update SimpleType: Transaction(364) to RelationshipType on Method getEventsAtInstant
+Update SimpleName: tx(365) to eventRelation on Method getEventsAtInstant
+Update SimpleType: Node(391) to Event on Method getEventsBetweenInstants
+Insert SimpleType: TimeInstant(277) into SingleVariableDeclaration(279) at 0 on Method getEventsBetweenInstants
+Update SimpleType: DateTimeZone(401) to TimeInstant on Method getEventsBetweenInstants
+Update SimpleName: timeZone(402) to endTime on Method getEventsBetweenInstants
+Update SimpleType: Resolution(405) to RelationshipType on Method getEventsBetweenInstants
+Update SimpleName: resolution(406) to eventRelation on Method getEventsBetweenInstants
+Update SimpleName: timeZone(44) to timeInstant on Method getNow
+Update TextElement:  specific time zone.(45) to  specific TimeInstant on Method getNow
+Update TextElement:        currently running transaction.(48) to           currently running transaction. on Method getNow
+Update TextElement:  node representing the time instant when this method was called.(50) to  node representing the time instant on Method getNow
+Update SimpleName: DateTimeZone(56) to TimeInstant on Method getNow
+Update TextElement: Get a node representing this time instant. If one doesn't exist, it will be created.(65) to Get a node representing a specific time instant. If one doesn't exist, it will be created. on Method getInstant
+Update SimpleName: resolution(70) to timeInstant on Method getInstant
+Update TextElement:  specific resolution.(71) to  specific TimeInstant on Method getInstant
+Update TextElement:          currently running transaction.(74) to           currently running transaction. on Method getInstant
+Update TextElement:  node representing the time instant when this method was called.(76) to  node representing a specific time instant. on Method getInstant
+Update SimpleName: Resolution(82) to TimeInstant on Method getInstant
+Update TextElement: Get a node representing this time instant. If one doesn't exist, it will be created.(91) to Get nodes representing all time instants in the specified range (inclusive). The ones that don't exist will be created. on Method getInstants
+Update SimpleName: timeZone(93) to startTime on Method getInstants
+Update TextElement:    specific time zone.(94) to  TimeInstant representing the start of the interval (inclusive) on Method getInstants
+Update SimpleName: resolution(96) to endTime on Method getInstants
+Update TextElement:  specific resolution.(97) to    TimeInstant representing the end of the interval (inclusive) on Method getInstants
+Update TextElement:          currently running transaction.(100) to         currently running transaction. on Method getInstants
+Update TextElement:  node representing the time instant when this method was called.(102) to  nodes representing all time instants in the interval, ordered chronologically. on Method getInstants
+Update SimpleName: DateTimeZone(108) to TimeInstant on Method getInstants
+Update SimpleName: Resolution(112) to TimeInstant on Method getInstants
+Update TextElement: Get a node representing a specific time instant. If one doesn't exist, it will be created.(121) to Attach an event to a node representing a specific time instant. If the time instant doesn't exist, it will be created.
+Update SimpleName: time(129) to eventNode
+Update TextElement:  UTC time in ms from 1/1/1970.(130) to               event node to be associated with this instant of time
+Update SimpleName: tx(132) to eventRelation
+Update TextElement:    currently running transaction.(133) to           RelationshipType between the event node and the time instant node
+Update SimpleName: time(154) to eventRelationDirection
+Update TextElement:      UTC time in ms from 1/1/1970.(155) to  Direction of the eventRelation from the event node to the time instant node
+Update SimpleName: timeZone(157) to timeInstant
+Update TextElement:  specific time zone.(158) to             specific TimeInstant to attach the event to
+Update TextElement:        currently running transaction.(161) to                      currently running transaction.
+Move SimpleName: Node(166) into SimpleType: Node(141) at 0 on Method getInstant
+Update SimpleName: DateTimeZone(172) to RelationshipType
+Update SimpleName: Transaction(176) to Direction
+Update SimpleName: Resolution(204) to TimeInstant
+Update TextElement: Get a node representing a specific time instant. If one doesn't exist, it will be created.(213) to Get events attached to a specific time instant. If the time instant doesn't exist, it will be created. on Method getInstant
+Update SimpleName: timeZone(218) to timeInstant on Method getInstant
+Update TextElement:    specific time zone.(219) to  specific TimeInstant on Method getInstant
+Update TextElement:          currently running transaction.(225) to           currently running transaction. on Method getInstant
+Update TextElement:  node representing a specific time instant.(227) to  events attached to the time instant on Method getInstant
+Update SimpleName: Node(230) to List on Method getInstant
+Move SimpleName: Node(230) into SimpleType: List(173) at 0 on Method getInstant
+Update SimpleName: DateTimeZone(236) to Event on Method getInstant
+Move SimpleName: DateTimeZone(236) into SimpleType: Event(175) at 0 on Method getInstant
+Update SimpleName: Transaction(244) to TimeInstant on Method getInstant
+Update TextElement: Get nodes representing all time instants in the specified range (inclusive). The ones that don't exist will be created.(286) to Get events attached to all time instants in the specified range (inclusive). The time instants that don't exist will be created. on Method getEventsBetweenInstants
+Update TextElement:  UTC time in ms from 1/1/1970 of the start of the interval (inclusive).(292) to  TimeInstant representing the start of the interval (inclusive) on Method getEventsBetweenInstants
+Update TextElement:    UTC time in ms from 1/1/1970 of the end of the interval (inclusive).(295) to    TimeInstant representing the end of the interval (inclusive) on Method getEventsBetweenInstants
+Update TextElement:  nodes representing all time instants in the interval, ordered chronologically.(303) to  events attached to all time instants in the interval, ordered chronologically on Method getEventsBetweenInstants
+Update SimpleName: Node(308) to Event on Method getEventsBetweenInstants
+Insert SimpleName: TimeInstant(207) into SimpleType: TimeInstant(208) at 0 on Method getEventsBetweenInstants
+Update SimpleName: DateTimeZone(318) to TimeInstant on Method getEventsBetweenInstants
+Update TextElement: Get nodes representing all time instants in the specified range (inclusive). The ones that don't exist will be created.(327) to Get events attached to a specific time instant with a specific relation. If the time instant doesn't exist, it will be created. on Method getEventsAtInstant
+Update SimpleName: startTime(332) to timeInstant on Method getEventsAtInstant
+Update TextElement:   UTC time in ms from 1/1/1970 of the start of the interval (inclusive).(333) to    specific TimeInstant on Method getEventsAtInstant
+Update SimpleName: resolution(338) to eventRelation on Method getEventsAtInstant
+Update TextElement:  specific resolution.(339) to  relationship attaching the event to the timeInstant on Method getEventsAtInstant
+Update TextElement:          currently running transaction.(342) to             currently running transaction. on Method getEventsAtInstant
+Update TextElement:  nodes representing all time instants in the interval, ordered chronologically.(344) to  events attached to the time instant with the specified relation on Method getEventsAtInstant
+Update SimpleName: Node(349) to Event on Method getEventsAtInstant
+Update SimpleName: Resolution(359) to TimeInstant on Method getEventsAtInstant
+Update SimpleName: Transaction(363) to RelationshipType on Method getEventsAtInstant
+Update TextElement: Get nodes representing all time instants in the specified range (inclusive). The ones that don't exist will be created.(368) to Get events attached to all time instants with the specified relation, in the specified range (inclusive). The time instants that don't exist will be created. on Method getEventsBetweenInstants
+Update TextElement:   UTC time in ms from 1/1/1970 of the start of the interval (inclusive).(371) to      TimeInstant representing the start of the interval (inclusive) on Method getEventsBetweenInstants
+Update TextElement:     UTC time in ms from 1/1/1970 of the end of the interval (inclusive).(374) to        TimeInstant representing the end of the interval (inclusive) on Method getEventsBetweenInstants
+Update SimpleName: resolution(379) to eventRelation on Method getEventsBetweenInstants
+Update TextElement:  specific resolution.(380) to  relationship attaching the event to the timeInstant on Method getEventsBetweenInstants
+Update TextElement:          currently running transaction.(383) to             currently running transaction. on Method getEventsBetweenInstants
+Update TextElement:  nodes representing all time instants in the interval, ordered chronologically.(385) to  events attached to all time instants in the interval with the specified relation, ordered chronologically on Method getEventsBetweenInstants
+Update SimpleName: Node(390) to Event on Method getEventsBetweenInstants
+Insert SimpleName: TimeInstant(276) into SimpleType: TimeInstant(277) at 0 on Method getEventsBetweenInstants
+Update SimpleName: DateTimeZone(400) to TimeInstant on Method getEventsBetweenInstants
+Update SimpleName: Resolution(404) to RelationshipType on Method getEventsBetweenInstants
+Delete TextElement: <p/>(40) on Method getNow
+Delete TextElement: The resolution of the time instant (i.e., whether it is a day, hour, minute, etc.) depends on the implementation,(41) on Method getNow
+Delete TextElement: which can choose a sensible default, require to be configured with a default when instantiated, or both.(42) on Method getNow
+Delete TextElement: <p/>(66) on Method getInstant
+Delete TextElement: The time zone of the time instant depends on the implementation, which can choose a default, require to be(67) on Method getInstant
+Delete TextElement: configured with a default when instantiated, or both.(68) on Method getInstant
+Delete SimpleName: Node(105) on Method getInstants
+Delete SimpleType: Node(106) on Method getInstants
+Delete TextElement: <p/>(122)
+Delete TextElement: The resolution of the time instant (i.e., whether it is a day, hour, minute, etc.) depends on the implementation,(123)
+Delete TextElement: which can choose a sensible default, require to be configured with a default when instantiated, or both.(124)
+Delete TextElement: <p/>(125)
+Delete TextElement: The time zone of the time instant depends on the implementation, which can choose a default, require to be(126)
+Delete TextElement: configured with a default when instantiated, or both.(127)
+Delete TextElement:  node representing a specific time instant.(135) on Method getInstant
+Delete TagElement: @return(136) on Method getInstant
+Delete Javadoc(137) on Method getInstant
+Delete SimpleName: Node(138) on Method getInstant
+Delete SimpleType: Node(139) on Method getInstant
+Delete SimpleName: getInstant(140) on Method getInstant
+Delete PrimitiveType: long(141) on Method getInstant
+Delete SimpleName: time(142) on Method getInstant
+Delete SingleVariableDeclaration(143) on Method getInstant
+Delete MethodDeclaration(148)
+Delete TextElement: Get a node representing a specific time instant. If one doesn't exist, it will be created.(149) on Method getInstant
+Delete TextElement: <p/>(150) on Method getInstant
+Delete TextElement: The resolution of the time instant (i.e., whether it is a day, hour, minute, etc.) depends on the implementation,(151) on Method getInstant
+Delete TextElement: which can choose a sensible default, require to be configured with a default when instantiated, or both.(152) on Method getInstant
+Delete TagElement(153) on Method getInstant
+Delete TextElement:  node representing a specific time instant.(163) on Method getInstant
+Delete TagElement: @return(164) on Method getInstant
+Delete Javadoc(165) on Method getInstant
+Delete SimpleType: Node(167) on Method getInstant
+Delete SimpleName: getInstant(168) on Method getInstant
+Delete PrimitiveType: long(169) on Method getInstant
+Delete SingleVariableDeclaration(171) on Method getInstant
+Delete MethodDeclaration(180)
+Delete TextElement: Get a node representing a specific time instant. If one doesn't exist, it will be created.(181) on Method getInstant
+Delete TextElement: <p/>(182) on Method getInstant
+Delete TextElement: The time zone of the time instant depends on the implementation, which can choose a default, require to be(183) on Method getInstant
+Delete TextElement: configured with a default when instantiated, or both.(184) on Method getInstant
+Delete TagElement(185) on Method getInstant
+Delete SimpleName: time(186) on Method getInstant
+Delete TextElement:        UTC time in ms from 1/1/1970.(187) on Method getInstant
+Delete TagElement: @param(188) on Method getInstant
+Delete SimpleName: resolution(189) on Method getInstant
+Delete TextElement:  specific resolution.(190) on Method getInstant
+Delete TagElement: @param(191) on Method getInstant
+Delete SimpleName: tx(192) on Method getInstant
+Delete TextElement:          currently running transaction.(193) on Method getInstant
+Delete TagElement: @param(194) on Method getInstant
+Delete TextElement:  node representing a specific time instant.(195) on Method getInstant
+Delete TagElement: @return(196) on Method getInstant
+Delete Javadoc(197) on Method getInstant
+Delete SimpleName: Node(198) on Method getInstant
+Delete SimpleType: Node(199) on Method getInstant
+Delete SimpleName: getInstant(200) on Method getInstant
+Delete PrimitiveType: long(201) on Method getInstant
+Delete SimpleName: time(202) on Method getInstant
+Delete SingleVariableDeclaration(203) on Method getInstant
+Delete MethodDeclaration(212)
+Delete SimpleName: time(215) on Method getInstant
+Delete TextElement:        UTC time in ms from 1/1/1970.(216) on Method getInstant
+Delete TagElement: @param(217) on Method getInstant
+Delete SimpleName: resolution(221) on Method getInstant
+Delete TextElement:  specific resolution.(222) on Method getInstant
+Delete TagElement: @param(223) on Method getInstant
+Delete SimpleType: Node(231) on Method getInstant
+Delete SimpleName: getInstant(232) on Method getInstant
+Delete PrimitiveType: long(233) on Method getInstant
+Delete SimpleName: time(234) on Method getInstant
+Delete SingleVariableDeclaration(235) on Method getInstant
+Delete SimpleType: DateTimeZone(237) on Method getInstant
+Delete SimpleName: timeZone(238) on Method getInstant
+Delete SingleVariableDeclaration(239) on Method getInstant
+Delete SimpleName: Resolution(240) on Method getInstant
+Delete SimpleType: Resolution(241) on Method getInstant
+Delete SimpleName: resolution(242) on Method getInstant
+Delete SingleVariableDeclaration(243) on Method getInstant
+Delete TextElement: Get nodes representing all time instants in the specified range (inclusive). The ones that don't exist will be created.(249) on Method getInstants
+Delete TextElement: <p/>(250) on Method getInstants
+Delete TextElement: The resolution of the time instants (i.e., whether it is a day, hour, minute, etc.) depends on the implementation,(251) on Method getInstants
+Delete TextElement: which can choose a sensible default, require to be configured with a default when instantiated, or both.(252) on Method getInstants
+Delete TextElement: <p/>(253) on Method getInstants
+Delete TextElement: The time zone of the time instants depends on the implementation, which can choose a default, require to be(254) on Method getInstants
+Delete TextElement: configured with a default when instantiated, or both.(255) on Method getInstants
+Delete TagElement(256) on Method getInstants
+Delete SimpleName: startTime(257) on Method getInstants
+Delete TextElement:  UTC time in ms from 1/1/1970 of the start of the interval (inclusive).(258) on Method getInstants
+Delete TagElement: @param(259) on Method getInstants
+Delete SimpleName: endTime(260) on Method getInstants
+Delete TextElement:    UTC time in ms from 1/1/1970 of the end of the interval (inclusive).(261) on Method getInstants
+Delete TagElement: @param(262) on Method getInstants
+Delete SimpleName: tx(263) on Method getInstants
+Delete TextElement:         currently running transaction.(264) on Method getInstants
+Delete TagElement: @param(265) on Method getInstants
+Delete TextElement:  nodes representing all time instants in the interval, ordered chronologically.(266) on Method getInstants
+Delete TagElement: @return(267) on Method getInstants
+Delete Javadoc(268) on Method getInstants
+Delete SimpleName: getInstants(274) on Method getInstants
+Delete PrimitiveType: long(275) on Method getInstants
+Delete SimpleName: startTime(276) on Method getInstants
+Delete SingleVariableDeclaration(277) on Method getInstants
+Delete PrimitiveType: long(278) on Method getInstants
+Delete SimpleName: endTime(279) on Method getInstants
+Delete SingleVariableDeclaration(280) on Method getInstants
+Delete MethodDeclaration(285)
+Delete TextElement: <p/>(287) on Method getEventsBetweenInstants
+Delete TextElement: The resolution of the time instants (i.e., whether it is a day, hour, minute, etc.) depends on the implementation,(288) on Method getEventsBetweenInstants
+Delete TextElement: which can choose a sensible default, require to be configured with a default when instantiated, or both.(289) on Method getEventsBetweenInstants
+Delete SimpleName: timeZone(297) on Method getEventsBetweenInstants
+Delete TextElement:   specific time zone.(298) on Method getEventsBetweenInstants
+Delete TagElement: @param(299) on Method getEventsBetweenInstants
+Delete PrimitiveType: long(312) on Method getEventsBetweenInstants
+Delete PrimitiveType: long(315) on Method getEventsBetweenInstants
+Delete SimpleName: endTime(316) on Method getEventsBetweenInstants
+Delete SingleVariableDeclaration(317) on Method getEventsBetweenInstants
+Delete TextElement: <p/>(328) on Method getEventsAtInstant
+Delete TextElement: The time zone of the time instants depends on the implementation, which can choose a default, require to be(329) on Method getEventsAtInstant
+Delete TextElement: configured with a default when instantiated, or both.(330) on Method getEventsAtInstant
+Delete SimpleName: endTime(335) on Method getEventsAtInstant
+Delete TextElement:     UTC time in ms from 1/1/1970 of the end of the interval (inclusive).(336) on Method getEventsAtInstant
+Delete TagElement: @param(337) on Method getEventsAtInstant
+Delete PrimitiveType: long(353) on Method getEventsAtInstant
+Delete SimpleName: startTime(354) on Method getEventsAtInstant
+Delete SingleVariableDeclaration(355) on Method getEventsAtInstant
+Delete PrimitiveType: long(356) on Method getEventsAtInstant
+Delete SimpleName: endTime(357) on Method getEventsAtInstant
+Delete SingleVariableDeclaration(358) on Method getEventsAtInstant
+Delete SimpleName: timeZone(376) on Method getEventsBetweenInstants
+Delete TextElement:    specific time zone.(377) on Method getEventsBetweenInstants
+Delete TagElement: @param(378) on Method getEventsBetweenInstants
+Delete PrimitiveType: long(394) on Method getEventsBetweenInstants
+Delete PrimitiveType: long(397) on Method getEventsBetweenInstants
+Delete SimpleName: endTime(398) on Method getEventsBetweenInstants
+Delete SingleVariableDeclaration(399) on Method getEventsBetweenInstants
